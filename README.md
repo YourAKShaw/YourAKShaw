@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 A K Shaw here!
 
 <!--
 **Ak-Shaw/Ak-Shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,5 @@ Here are some ideas to get you started:
   -->
 
   <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" />
+
+***P.S.: Profile README.md construction in progress***
