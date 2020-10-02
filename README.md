@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
+  <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" />
