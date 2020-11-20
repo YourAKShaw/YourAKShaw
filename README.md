@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 ***P.S.: Profile README.md construction in progress***
 
 <img src = "https://ih1.redbubble.net/image.121511338.0820/mp,840x830,matte,f8f8f8,t-pad,1000x1000,f8f8f8.jpg" width = "150" />
+
+![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=blue-green) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Shaw&theme=blue-green)
+
