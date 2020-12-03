@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/akshawz"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/akshawz?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@akshawz"></a>
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Ak-Shaw?color=green&logo=github&style=for-the-badge">
+
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=blue-green)
 
  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Shaw&theme=blue-green)
