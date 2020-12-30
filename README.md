@@ -42,6 +42,8 @@ I'm an open source 😺 enthusiast and keen to learn tech when and wherever nece
 <br />
 
 ### Skill set:
+
+<!-- Row 1 [START] -->
 <div>
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/python.png"/>
@@ -51,6 +53,9 @@ I'm an open source 😺 enthusiast and keen to learn tech when and wherever nece
 </div>
 <br />
 <hr  width="1%" />
+<!-- Row 1 [END] -->
+
+<!-- Row 2 [START] -->
 <div>
 	<img align="left" src="https://img.icons8.com/color/96/000000/spring-logo.png" width="64px" />
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/code-fork.png"/>
@@ -60,6 +65,8 @@ I'm an open source 😺 enthusiast and keen to learn tech when and wherever nece
 </div>
 <br />
 <hr width="1%" />
+<!-- Row 2 [END] -->
+
 <br />
 
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=onedark)
