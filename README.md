@@ -19,6 +19,3 @@ I'm a back-end 💻 developer and building APIs with MVCS architecture is kinda 
 <br />
 
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=onedark)
-
-![Ak-Shaw's programming language usage stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Shaw&theme=onedark)
-
