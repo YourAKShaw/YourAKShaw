@@ -12,6 +12,7 @@
 <br />
 <a href="mailto: ayushshawz@gmail.com"><img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
 <br />
+<br />
 
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=onedark)
 
