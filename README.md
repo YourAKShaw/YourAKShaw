@@ -70,6 +70,7 @@ I'm an open source 😺 enthusiast and keen to learn tech when and wherever nece
 <!-- Row 3 [START] -->
 <div>
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
+	<img align="left" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-insides.png"/>
 </div>
 <br />
 <hr width="1%" />
