@@ -9,6 +9,7 @@
 
 <img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/Ak-Shaw?color=green&logo=github&style=for-the-badge">
 <br />
+<br />
 <a href="mailto: ayushshawz@gmail.com"><img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
 <br />
 
