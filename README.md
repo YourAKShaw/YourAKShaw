@@ -16,7 +16,7 @@ I'm a <b><i>back-end 💻 developer</i></b> and building <b><i>APIs</i></b> with
 <a href="mailto:ayushshawz@gmail.com"><img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a><img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/Ak-Shaw?color=green&logo=github&style=for-the-badge">
 <br />
 <br />
-<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a>
+<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a><a href="https://dev.to/akshaw"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Kumar Shaw's DEV Community Profile" width="22px"></a>
 <br />
 <br />
 
