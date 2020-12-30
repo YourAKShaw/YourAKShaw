@@ -34,9 +34,7 @@ I'm a <b><i>back-end 💻 developer</i></b> and building <b><i>APIs</i></b> with
 
 <a href="mailto:ayushshawz@gmail.com">
 	<img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-</a>
-
-<img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/Ak-Shaw?color=green&logo=github&style=for-the-badge">
+</a><img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/Ak-Shaw?color=green&logo=github&style=for-the-badge">
 
 <!-- Second row of social profile icons/badges with hyperlinks [END] -->
 <br />
