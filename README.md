@@ -3,7 +3,7 @@
 
 You can call me Ayush, or Shaw, or whatever seems relevant to you. Just kindly don't spoil the fun. 😅
 <br />
-I'm a back-end 💻 developer and building APIs with MVCS architecture is kinda my thing. 😬
+I'm a <b><i>back-end 💻 developer</i></b> and building APIs with MVCS architecture is kinda my thing. 😬
 
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" />
 <br/>
