@@ -47,5 +47,6 @@ I'm an open source 😺 enthusiast and keen to learn tech when and wherever nece
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/python.png"/>
 </div>
 <br />
+<br />
 
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=onedark)
