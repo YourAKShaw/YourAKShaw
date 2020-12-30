@@ -41,4 +41,7 @@ I'm an open source 😺 enthusiast and keen to learn tech when and wherever nece
 <br />
 <br />
 
+### Skill set:
+<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" width="22px"/>
+
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=onedark)
