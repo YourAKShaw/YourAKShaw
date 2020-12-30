@@ -56,5 +56,6 @@ I'm an open source 😺 enthusiast and keen to learn tech when and wherever nece
 </div>
 <br />
 <hr width="1%" />
+<br />
 
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=onedark)
