@@ -3,7 +3,7 @@
 
 You can call me Ayush, or Shaw, or whatever seems relevant to you. Just kindly don't spoil the fun. 😅
 <br />
-I'm a <b><i>back-end 💻 developer</i></b> and building <b><i>APIs</i></b> and <b><i>Microservices</i><b> with MVCS architecture is kinda my thing. 😬
+I'm a <b><i>back-end 💻 developer</i></b> and building <b><i>APIs</i></b> and <b><i>Microservices</i></b> with <b><i>MVCS</i></b> architecture is kinda my thing. 😬
 <br />
 
 My 3 favourite C's are 👨‍💻 Code, ☕ Coffee and 🍪 Cookies. 
