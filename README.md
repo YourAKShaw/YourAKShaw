@@ -72,6 +72,8 @@ I'm an open source 😺 enthusiast and keen to learn tech when and wherever nece
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-insides.png"/>
 	<img align="left" src="https://img.icons8.com/color/96/000000/intellij-idea.png" width="64px" />
+	<img align="left" src="https://img.icons8.com/officel/80/000000/java-eclipse.png" width="64px" />
+	<img align="left" src="https://img.icons8.com/fluent/96/000000/sublime-text.png" width="64" />
 </div>
 <br />
 <hr width="1%" />
