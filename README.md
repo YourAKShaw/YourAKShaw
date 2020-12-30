@@ -56,6 +56,7 @@ I'm an open source 😺 enthusiast and keen to learn tech when and wherever nece
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/code-fork.png"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/github.png"/>
 	<img align="left" src="https://img.icons8.com/color/48/000000/gitlab.png" width="64px" />
+	<img align="left" src="https://img.icons8.com/dusk/64/000000/selenium-test-automation.png"/>
 </div>
 <br />
 <hr width="1%" />
