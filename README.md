@@ -2,6 +2,7 @@
 <br/>
 
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" />
+<br/>
 
 <img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/Ak-Shaw?color=green&logo=github&style=for-the-badge">
 <br />
