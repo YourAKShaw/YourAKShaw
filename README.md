@@ -1,7 +1,7 @@
 ### Hi there 👋 A K Shaw here!
 <br/>
 
-You can call me <b>Ayush</b>, or <b>Shaw</b>, or whatever seems relevant to you. Just kindly don't spoil the fun. 😅
+You can call me <b>Ayush</b>, or <b>Shaw</b>, or whatever seems relevant to you. <i>Just kindly don't spoil the fun</i>. 😅
 <br />
 I'm a <b><i>back-end 💻 developer</i></b> and building <b><i>APIs</i></b> and <b><i>Microservices</i></b> with <b><i>MVCS</i></b> architecture is kinda my thing. 😬
 <br />
