@@ -1,6 +1,8 @@
 ### Hi there 👋 A K Shaw here!
 <br/>
 
+You can call me Ayush, or Shaw, or whatever seems relevant to you. Just kindly don't spoil the fun. 😅
+
 <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" />
 <br/>
 
