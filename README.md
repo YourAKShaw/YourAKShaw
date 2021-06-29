@@ -1,5 +1,5 @@
 <!--### Hi there 👋 A K Shaw here!-->
-<img src="https://i.ibb.co/0BKDFWJ/gitub-profile-readme-banner.png" />
+<img src="https://i.ibb.co/0BKDFWJ/gitub-profile-readme-banner.png" style="border-radius: 70px 70px 0 0" />
 
 <br/>
 
