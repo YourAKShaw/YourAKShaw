@@ -1,4 +1,6 @@
-### Hi there 👋 A K Shaw here!
+<!--### Hi there 👋 A K Shaw here!-->
+<img src="https://i.ibb.co/0BKDFWJ/gitub-profile-readme-banner.png" />
+
 <br/>
 
 You can call me <b>Ayush</b>, or <b>Shaw</b>, or whatever seems relevant to you. <i>Just kindly don't spoil the fun</i>. 😅
