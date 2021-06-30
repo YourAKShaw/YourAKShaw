@@ -83,6 +83,17 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <br />
 
+### </> Coder Profiles </>
+
+<div>
+	<a href="https://www.hackerrank.com/akshaw"><img align="left" src="https://i.ibb.co/4411J8X/hackerrank-rank-icon.png" width="64" height="auto" /></a>
+	<a href="https://leetcode.com/akshaw/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="64" height="auto" /></a>
+	<a href="https://www.codechef.com/users/ak_shaw"><img align="left" src="https://api.iconify.design/simple-icons:codechef.svg" width="64" height="auto" /></a>
+	<a href="https://www.hackerearth.com/@akshaw"><img align="left" src="https://i.ibb.co/myZFr4k/hacker-earth-icon.png" width="64" height="auto" /></a>
+	<a href="https://codeforces.com/profile/akshaw"><img align="left" src="https://api.iconify.design/simple-icons:codeforces.svg" width="64" height="auto" /></a>
+</div>
+<br />
+
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="300px" height="1235px" align="right"/>
 
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula) 
