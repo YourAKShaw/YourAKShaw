@@ -85,7 +85,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="200" height="150" align="right"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="200" height="150" align="right"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="150" height="150" align="right"/>
 
 ### </> Coder Profiles </>
 
