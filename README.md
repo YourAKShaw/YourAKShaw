@@ -83,7 +83,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <br />
 
-<img src="https://i.ibb.co/G9fVrqv/matrix-rain-width-266px-height-676px.gif" width="300px" height="1235px" align="right"/>
+<img src="https://i.ibb.co/G9fVrqv/matrix-rain-width-266px-height-676px.gif" align="right"/>
 
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula) 
 
