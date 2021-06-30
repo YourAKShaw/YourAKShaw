@@ -91,7 +91,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 ![akshaw's code::stats stats](https://codestats-readme.vercel.app/api?username=akshaw&show_icons&theme=nightowl)
 
-<img src="https://i.giphy.com/media/fwbZnTftCXVocKzfxR/200.webp" />
+<img src="https://i.giphy.com/media/fwbZnTftCXVocKzfxR/200.webp" align="right"/>
 
 ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl)]
 
