@@ -83,7 +83,9 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <br />
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="300px" height="1235px" align="right"/>
+<img src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/200w.webp" align="right"/>
+
+<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="300" height="auto" align="right">
 
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula) 
 
