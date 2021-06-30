@@ -87,7 +87,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula) 
 
-<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="300" height="auto" align="right">
+<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="auto" height="175" align="right">
 
 ![akshaw's code::stats stats](https://codestats-readme.vercel.app/api?username=akshaw&show_icons&theme=nightowl)
 
