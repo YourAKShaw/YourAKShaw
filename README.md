@@ -97,6 +97,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 <br />
 <hr width="1%" />
 <br />
+<br />
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="300px" height="1235px" align="right"/>
 
