@@ -36,8 +36,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Third row of social profile icons/badges with hyperlinks [START] -->
 
-<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a><a href="https://dev.to/akshaw"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Kumar Shaw's DEV Community Profile" width="22px"></a><a href="https://gitlab.com/Ak-Shaw"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" alt="GitLab" width="22px"></a>
-
+<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a><a href="https://dev.to/akshaw"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Kumar Shaw's DEV Community Profile" width="22px"></a><a href="https://gitlab.com/Ak-Shaw"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" alt="GitLab" width="22px"></a><a href="https://codestats.net/users/akshaw"><img align="left" src="https://i.ibb.co/7CwShBx/code-stats-transparent-icon.png" alt="Codestats" width="22px"></a>
 <!-- Third row of social profile icons/badges with hyperlinks [END] -->
 
 <br />
