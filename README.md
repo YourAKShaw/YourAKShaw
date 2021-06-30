@@ -91,8 +91,8 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="300" height="auto" align="right">
 
-<img src="https://i.giphy.com/media/fwbZnTftCXVocKzfxR/200.webp" width="300" height="auto" align="right"/>
-
 ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl)]
+
+<img src="https://i.giphy.com/media/fwbZnTftCXVocKzfxR/200.webp" width="300" height="auto" align="right"/>
 
 ![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=akshaw&theme=nightowl)
