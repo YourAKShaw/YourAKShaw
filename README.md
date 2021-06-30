@@ -104,4 +104,6 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl)
 
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="200" height="200" align="right"/>
+
 ![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=akshaw&theme=nightowl)
