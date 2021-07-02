@@ -82,10 +82,6 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <br />
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="200" height="150" align="right"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="150" height="150" align="right"/>
-
 ### </> Coder Profiles </>
 
 <div>
@@ -100,19 +96,10 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 <br />
 <br />
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="300px" height="1235px" align="right"/>
-
 ![Ak-Shaw's github stats](https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula) 
 
 ![akshaw's code::stats stats](https://codestats-readme.vercel.app/api?username=akshaw&show_icons&theme=nightowl)
 
 ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl)
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c8/Very_Black_screen.jpg" width="200" height="300" align="right"/>
-
 ![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=akshaw&theme=nightowl)
-
-# DISCLAIMER!
-## KINDLY DON'T MIND THE WEIRD BLACK BOXES...  😅 ... THEY'RE JUST PLACEHOLDERS FOR SOMETHING COMING SOON... 😋 ...
-
-<div style="width:20; height:20; ></div>
