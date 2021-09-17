@@ -1,9 +1,6 @@
 <!--### Hi there 👋 A K Shaw here!-->
 <img src="https://i.ibb.co/0BKDFWJ/gitub-profile-readme-banner.png" />
 
-<br/>
-<br/>
-
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ak-Shaw&theme=redical)
 
 <br/>
