@@ -2,6 +2,11 @@
 <img src="https://i.ibb.co/0BKDFWJ/gitub-profile-readme-banner.png" />
 
 <br/>
+<br/>
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ak-Shaw&theme=redical)
+
+<br/>
 
 You can call me <b>Ayush</b>, or <b>Shaw</b>, or whatever seems relevant to you. <i>Just kindly don't spoil the fun</i>. 😅
 <br />
@@ -89,5 +94,3 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl)
 
 ![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=akshaw&theme=nightowl)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ak-Shaw&theme=redical)
