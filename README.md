@@ -89,3 +89,5 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl)
 
 ![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=akshaw&theme=nightowl)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ak-Shaw&theme=redical)
