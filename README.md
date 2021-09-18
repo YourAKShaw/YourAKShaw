@@ -55,6 +55,10 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left"src="https://i.ibb.co/JFZWXfk/nodedotjs.png" width="64px"/>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="64px"/>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="64px"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" width="64px">
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" width="64px">
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" width="64px">
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" width="64px">
 </div>
 <br />
 <hr  width="1%" />
