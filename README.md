@@ -84,10 +84,10 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <br />
 
-<table>
+<table style="border-style:none;">
 	<tr>
-		<td style="border-style:none;"><img src="https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula"></td>
-		<td style="border-style:none;"><img src="https://codestats-readme.vercel.app/api?username=akshaw&show_icons&theme=nightowl" alt="akshaw's code::stats stats"></td>
+		<td><img src="https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula"></td>
+		<td><img src="https://codestats-readme.vercel.app/api?username=akshaw&show_icons&theme=nightowl" alt="akshaw's code::stats stats"></td>
 	</tr>
 </table>
 
