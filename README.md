@@ -51,6 +51,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/python.png"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
+	<img align="left"src="https://img.icons8.com/color/64/000000/nodejs.png"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/000000/css3.png"/>
 </div>
