@@ -84,7 +84,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <br />
 
-<img src="https://i.ibb.co/VQyVXNM/pointing-to-resume.gif" width="150px" align="right">
+<img src="https://i.ibb.co/VQyVXNM/pointing-to-resume.gif" width="250px" align="right">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula" alt="GitHub stats">
 
