@@ -84,11 +84,11 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <br />
 
+<img src="https://i.ibb.co/FmNGcCH/down-arrow-animated.gif" width="200px" align="right">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula" alt="GitHub stats">
 
 <img src="https://codestats-readme.vercel.app/api?username=akshaw&show_icons&theme=nightowl" alt="akshaw's code::stats stats">
-
-<img src="https://i.ibb.co/FmNGcCH/down-arrow-animated.gif" width="200px" align="right">
 
 <!-- ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl) -->
 
