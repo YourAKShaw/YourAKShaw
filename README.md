@@ -62,11 +62,11 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Row 2 [START] -->
 <div>
-	<img align="left" src="https://img.icons8.com/color/96/000000/spring-logo.png" width="64px" />
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/code-fork.png"/>
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/github.png"/>
-	<img align="left" src="https://img.icons8.com/color/48/000000/gitlab.png" width="64px" />
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/selenium-test-automation.png"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" width="64px" />
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" width="64px"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="64px"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" width="64px"/>
+	<img align="left" src="https://img.icons8.com/ios/64/000000/selenium-test-automation.png"/>
 </div>
 <br />
 <hr width="1%" />
