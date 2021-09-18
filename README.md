@@ -88,8 +88,6 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <img src="https://codestats-readme.vercel.app/api?username=akshaw&show_icons&theme=nightowl" alt="akshaw's code::stats stats">
 
-<img src="https://i.giphy.com/media/XfbFDPyd408c2ptzka/giphy.webp" style="transform: rotate(180deg);">
-
 <!-- ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl) -->
 
 <!-- ![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=akshaw&theme=nightowl) -->
