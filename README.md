@@ -54,9 +54,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" width="64px">
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" width="64px">
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" width="64px">
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" width="64px">
-	<img align="left" src="https://img.icons8.com/ios/64/000000/selenium-test-automation.png"/>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" width="64px"/>	
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" width="64px">	
 </div>
 <br />
 <hr  width="1%" />
@@ -69,6 +67,8 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="64"/>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="64px"/>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="64px"/>
+	<img align="left" src="https://img.icons8.com/ios/64/000000/selenium-test-automation.png"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" width="64px"/>
 </div>
 <br />
 <hr width="1%" />
