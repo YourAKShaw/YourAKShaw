@@ -90,7 +90,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <img src="https://codestats-readme.vercel.app/api?username=akshaw&show_icons&theme=nightowl" alt="akshaw's code::stats stats">
 
-<img src="https://i.ibb.co/wSz4kdM/signature-akshaw-transparent-background.png" width="30%">
+<img src="https://i.ibb.co/wSz4kdM/signature-akshaw-transparent-background.png" width="20%">
 
 <!-- ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl) -->
 
