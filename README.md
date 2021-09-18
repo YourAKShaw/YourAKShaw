@@ -74,11 +74,11 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Row 3 [START] -->
 <div>
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-insides.png"/>
-	<img align="left" src="https://img.icons8.com/color/96/000000/intellij-idea.png" width="64px" />
-	<img align="left" src="https://img.icons8.com/officel/80/000000/java-eclipse.png" width="64px" />
-	<img align="left" src="https://img.icons8.com/fluent/96/000000/sublime-text.png" width="64" />
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" width="64px"/>
+	<img align="left" src="https://img.icons8.com/ios-filled/64/000000/visual-studio-logo.png"/>
+	<img align="left" src="https://img.icons8.com/material/64/000000/intellij-idea.png"/>
+	<img align="left" src="https://img.icons8.com/ios-filled/64/000000/java-eclipse.png"/>
+	<img align="left" src="https://img.icons8.com/wired/64/000000/sublime-text-new-logo.png"/>
 </div>
 <br />
 <hr width="1%" />
