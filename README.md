@@ -48,12 +48,13 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Row 1 [START] -->
 <div>
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/python.png"/>
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
-	<img align="left"src="https://img.icons8.com/color/64/000000/nodejs.png"/>
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
-	<img align="left" src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="64px"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="64"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" width="64"/>
+	<img align="left"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" width="64px"/>
+	<img align="left"src="https://i.ibb.co/JFZWXfk/nodedotjs.png" width="64px"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="64px"/>
+	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="64px"/>
 </div>
 <br />
 <hr  width="1%" />
