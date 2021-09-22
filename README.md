@@ -63,7 +63,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 <!-- Row 2 [START] -->
 <div>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="64px"/>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" width="64px" />
+	<img align="left" src="https://i.ibb.co/drjHsgp/spring-boot-black-removebg-preview.png" width="64px" />
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="64"/>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="64px"/>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="64px"/>
