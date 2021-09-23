@@ -65,6 +65,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="64px"/>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" width="64px" />
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="64"/>
+	<img align="left" src="https://i.ibb.co/jLHZTzd/django.png" width="64"/>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="64px"/>
 	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="64px"/>
 	<img align="left" src="https://img.icons8.com/ios/64/000000/selenium-test-automation.png"/>
