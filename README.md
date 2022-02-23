@@ -1,7 +1,9 @@
 <!--### Hi there 👋 A K Shaw here!-->
 <img src="https://i.ibb.co/sVptxBK/gitub-profile-readme-banner-2-v2.png" />
 
-<img align="middle" src="http://github-readme-streak-stats.herokuapp.com?user=Ak-Shaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<center>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Ak-Shaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</center>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ak-Shaw&theme=redical)
 
