@@ -1,6 +1,8 @@
 <!--### Hi there 👋 A K Shaw here!-->
 <img src="https://i.ibb.co/sVptxBK/gitub-profile-readme-banner-2-v2.png" />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ak-Shaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ak-Shaw&theme=redical)
 
 <br/>
@@ -104,5 +106,3 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 <!-- ![History](https://codestats-readme.vercel.app/api/history/?username=akshaw&theme=nightowl) -->
 
 <!-- ![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=akshaw&theme=nightowl) -->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ak-Shaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
