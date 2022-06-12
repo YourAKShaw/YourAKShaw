@@ -22,7 +22,7 @@ My 3 favourite C's are 👨‍💻 <b>Code</b>, ☕ <b>Coffee</b> and 🍪 <b>Co
 I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherever necessary to upskill myself. Will be doing my best to grab relatively great opportunities, and definitely will be outworking and outperforming myself. 😵😵
 
 <!-- <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" /> -->
-<img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" height="auto" />
+<img align="right" src="https://i.ibb.co/nkzCk57/typing-away-animation-rounded-corners-small.gif" width="300" height="auto" />
 <br/>
 
 <!-- First row of social profile icons/badges with hyperlinks [START]-->
