@@ -95,8 +95,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <br />
 
-<img align="right" src="https://i.ibb.co/RjFVK5n/down-animated-arrows-transparent-small.gif" alt="down-arrow-animation">
-<a href="https://github.com/Ak-Shaw/Deedy-Resume/blob/akShaw-resume/Ak-Shaw%20version/Ayush-Kumar-Shaw_Resume.pdf"><img align="right" src="https://i.ibb.co/1RXq4NB/resume-art-rounded-corners.png" alt="resume-art" width="150px"></a>
+<a href="https://github.com/Ak-Shaw/Deedy-Resume/blob/akShaw-resume/Ak-Shaw%20version/Ayush-Kumar-Shaw_Resume.pdf"><img align="right" src="https://i.ibb.co/1RXq4NB/resume-art-rounded-corners.png" alt="resume-art" width="250px"></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula" alt="GitHub stats">
 
