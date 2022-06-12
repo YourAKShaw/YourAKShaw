@@ -96,7 +96,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 <br />
 
 <img align="right" src="https://i.ibb.co/RjFVK5n/down-animated-arrows-transparent-small.gif" alt="down-arrow-animation">
-<img align="right" src="https://i.ibb.co/1RXq4NB/resume-art-rounded-corners.png" alt="resume-art" width="200px">
+<img align="right" src="https://i.ibb.co/1RXq4NB/resume-art-rounded-corners.png" alt="resume-art" width="150px">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula" alt="GitHub stats">
 
