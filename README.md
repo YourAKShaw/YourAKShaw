@@ -1,5 +1,5 @@
 <!--### Hi there 👋 A K Shaw here!-->
-<img src="https://i.ibb.co/9HFzZgc/github-profile-readme-banner-blr-rounded-corners-small.gif" align="center/>
+<img src="https://i.ibb.co/9HFzZgc/github-profile-readme-banner-blr-rounded-corners-small.gif" align="center"/>
 
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Ak-Shaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
