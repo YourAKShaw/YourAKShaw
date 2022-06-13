@@ -57,6 +57,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://img.icons8.com/color/100/undefined/javascript.png" width="64"/>
 	<img align="left"src="https://img.icons8.com/color/100/undefined/typescript.png" width="64px"/>
 	<img align="left"src="https://img.icons8.com/fluency/100/undefined/node-js.png" width="64px"/>
+	<img align="left" src="https://nestjs.com/img/logo-small.svg" width="64px">
 	<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/undefined/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="64px">
 	<img align="left" src="https://img.icons8.com/color/100/undefined/redis.png" width="64px">
 	<img align="left" src="https://img.icons8.com/color/100/undefined/graphql.png" width="64px">
