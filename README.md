@@ -44,7 +44,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Third row of social profile icons/badges with hyperlinks [START] -->
 
-<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="30px" src="https://img.icons8.com/fluency/48/undefined/stackoverflow.png" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a><a href="https://dev.to/akshaw"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Kumar Shaw's DEV Community Profile" width="30px"></a><a href="https://gitlab.com/Ak-Shaw"><img align="left" src="https://img.icons8.com/color/48/undefined/gitlab.png" alt="GitLab" width="30px"></a><a href="https://codestats.net/users/akshaw"><img align="left" src="https://i.ibb.co/7CwShBx/code-stats-transparent-icon.png" alt="Codestats" width="30px"></a>
+<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="30px" src="https://img.icons8.com/fluency/100/undefined/stackoverflow.png" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a><a href="https://dev.to/akshaw"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Kumar Shaw's DEV Community Profile" width="30px"></a><a href="https://gitlab.com/Ak-Shaw"><img align="left" src="https://img.icons8.com/color/100/undefined/gitlab.png" alt="GitLab" width="30px"></a><a href="https://codestats.net/users/akshaw"><img align="left" src="https://i.ibb.co/7CwShBx/code-stats-transparent-icon.png" alt="Codestats" width="30px"></a>
 <!-- Third row of social profile icons/badges with hyperlinks [END] -->
 
 <br />
@@ -54,12 +54,12 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Row 1 [START] -->
 <div>
-	<img align="left" src="https://img.icons8.com/color/48/undefined/javascript.png" width="64"/>
-	<img align="left"src="https://img.icons8.com/color/48/undefined/typescript.png" width="64px"/>
-	<img align="left"src="https://img.icons8.com/fluency/48/undefined/node-js.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/color/100/undefined/javascript.png" width="64"/>
+	<img align="left"src="https://img.icons8.com/color/100/undefined/typescript.png" width="64px"/>
+	<img align="left"src="https://img.icons8.com/fluency/100/undefined/node-js.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/undefined/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="64px">
 	<img align="left" src="https://img.icons8.com/color/100/undefined/redis.png" width="64px">
-	<img align="left" src="https://img.icons8.com/color/48/undefined/graphql.png" width="64px">
+	<img align="left" src="https://img.icons8.com/color/100/undefined/graphql.png" width="64px">
 	<img align="left" src="https://iconape.com/wp-content/png_logo_vector/rabbitmq.png" width="64px">	
 </div>
 <br />
@@ -70,10 +70,10 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 <div>
 	<img align="left" src="https://img.icons8.com/color/480/undefined/java-coffee-cup-logo--v1.png" width="64px"/>
 	<img align="left" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="64px" />
-	<img align="left" src="https://img.icons8.com/fluency/48/undefined/python.png" width="64"/>
+	<img align="left" src="https://img.icons8.com/fluency/100/undefined/python.png" width="64"/>
 	<img align="left" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/100/undefined/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" width="64"/>
 	<img align="left" src="https://img.icons8.com/color/100/undefined/html-5--v1.png" width="64px"/>
-	<img align="left" src="https://img.icons8.com/color/48/undefined/css3.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/color/100/undefined/css3.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/officel/100/undefined/selenium-test-automation.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/undefined/postman-api.png" width="64px"/>
 </div>
