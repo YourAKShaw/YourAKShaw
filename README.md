@@ -27,7 +27,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- First row of social profile icons/badges with hyperlinks [START]-->
 
-<a href="https://twitter.com/akshawz"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/ayush-shaw/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/akshawz/">	<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="https://www.facebook.com/ayush.shaw.148/">	<img align="left" alt="FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /></a><a href="https://www.reddit.com/user/akshawz"><img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reddit.svg" /></a>
+<a href="https://twitter.com/akshawz"><img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/plasticine/100/undefined/twitter.png" /></a><a href="https://www.linkedin.com/in/ayush-shaw/"><img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/plasticine/100/undefined/linkedin.png" /></a><a href="https://www.instagram.com/akshawz/">	<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/plasticine/100/undefined/instagram-new--v2.png" /></a><a href="https://www.facebook.com/ayush.shaw.148/">	<img align="left" alt="FB" width="22px" src="https://img.icons8.com/plasticine/100/undefined/facebook-new.png" /></a><a href="https://www.reddit.com/user/akshawz"><img align="left" alt="Reddit" width="22px" src="https://img.icons8.com/plasticine/100/undefined/reddit.png" /></a>
 
 <!-- First row of social profile icons/badges with hyperlinks [END]-->
 
@@ -36,7 +36,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 <!-- Second row of social profile icons/badges with hyperlinks [START] -->
 
 <a href="mailto:ayushshawz@gmail.com">
-	<img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+	<img align="left" alt="GMail" width="22px" src="https://img.icons8.com/plasticine/100/undefined/gmail-new.png" />
 </a><img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/Ak-Shaw?color=green&logo=github&style=for-the-badge">
 
 <!-- Second row of social profile icons/badges with hyperlinks [END] -->
@@ -44,7 +44,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Third row of social profile icons/badges with hyperlinks [START] -->
 
-<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a><a href="https://dev.to/akshaw"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Kumar Shaw's DEV Community Profile" width="22px"></a><a href="https://gitlab.com/Ak-Shaw"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" alt="GitLab" width="22px"></a><a href="https://codestats.net/users/akshaw"><img align="left" src="https://i.ibb.co/7CwShBx/code-stats-transparent-icon.png" alt="Codestats" width="22px"></a>
+<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="22px" src="https://img.icons8.com/fluency/48/undefined/stackoverflow.png" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a><a href="https://dev.to/akshaw"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Kumar Shaw's DEV Community Profile" width="22px"></a><a href="https://gitlab.com/Ak-Shaw"><img align="left" src="https://img.icons8.com/color/48/undefined/gitlab.png" alt="GitLab" width="22px"></a><a href="https://codestats.net/users/akshaw"><img align="left" src="https://i.ibb.co/7CwShBx/code-stats-transparent-icon.png" alt="Codestats" width="22px"></a>
 <!-- Third row of social profile icons/badges with hyperlinks [END] -->
 
 <br />
@@ -54,13 +54,13 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Row 1 [START] -->
 <div>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" width="64"/>
-	<img align="left"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" width="64px"/>
-	<img align="left"src="https://i.ibb.co/JFZWXfk/nodedotjs.png" width="64px"/>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" width="64px">
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" width="64px">
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg" width="64px">
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rabbitmq.svg" width="64px">	
+	<img align="left" src="https://img.icons8.com/color/48/undefined/javascript.png" width="64"/>
+	<img align="left"src="https://img.icons8.com/color/48/undefined/typescript.png" width="64px"/>
+	<img align="left"src="https://img.icons8.com/fluency/48/undefined/node-js.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/undefined/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="64px">
+	<img align="left" src="https://img.icons8.com/color/100/undefined/redis.png" width="64px">
+	<img align="left" src="https://img.icons8.com/color/48/undefined/graphql.png" width="64px">
+	<img align="left" src="https://iconape.com/wp-content/png_logo_vector/rabbitmq.png" width="64px">	
 </div>
 <br />
 <hr  width="1%" />
@@ -68,14 +68,14 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Row 2 [START] -->
 <div>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="64px"/>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" width="64px" />
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="64"/>
-	<img align="left" src="https://i.ibb.co/jLHZTzd/django.png" width="64"/>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="64px"/>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="64px"/>
-	<img align="left" src="https://img.icons8.com/ios/64/000000/selenium-test-automation.png"/>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" width="64px"/>
+	<img align="left" src="https://img.icons8.com/color/480/undefined/java-coffee-cup-logo--v1.png" width="64px"/>
+	<img align="left" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="64px" />
+	<img align="left" src="https://img.icons8.com/fluency/48/undefined/python.png" width="64"/>
+	<img align="left" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/100/undefined/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" width="64"/>
+	<img align="left" src="https://img.icons8.com/color/100/undefined/html-5--v1.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/color/48/undefined/css3.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/officel/100/undefined/selenium-test-automation.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/dusk/64/undefined/postman-api.png" width="64px"/>
 </div>
 <br />
 <hr width="1%" />
@@ -83,13 +83,13 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <!-- Row 3 [START] -->
 <div>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" width="64px"/>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="64px"/>
-	<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" width="64px"/>
-	<img align="left" src="https://img.icons8.com/ios-filled/64/000000/visual-studio-logo.png"/>
-	<img align="left" src="https://img.icons8.com/material/64/000000/intellij-idea.png"/>
-	<img align="left" src="https://img.icons8.com/ios-filled/64/000000/java-eclipse.png"/>
-	<img align="left" src="https://img.icons8.com/wired/64/000000/sublime-text-new-logo.png"/>
+	<img align="left" src="https://img.icons8.com/color/100/undefined/git.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/github.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/color/100/undefined/gitlab.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/visual-studio-code-2019.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/intellij-idea.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/officel/100/undefined/java-eclipse.png" width="64px"/>
+	<img align="left" src="https://img.icons8.com/dusk/64/undefined/sublime-text-new-logo.png"/>
 </div>
 <br />
 <hr width="1%" />
