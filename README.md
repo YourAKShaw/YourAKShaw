@@ -87,6 +87,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 </p>
 <br />
 <br />
+<br />
 
 <!-- Row 2 [END] -->
 
