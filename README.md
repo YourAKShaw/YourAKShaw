@@ -69,6 +69,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://www.laurel-group.com/wp-content/uploads/AWS-logo.png" width="64px">
 </p>
 <br />
+<br />
 
 <!-- Row 1 [END] -->
 
@@ -84,6 +85,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://img.icons8.com/dusk/64/undefined/postman-api.png" width="64px"/>
 	<img align="left" src="https://www.sentinelone.com/wp-content/uploads/2019/07/19130737/Kafka_use_cases_indicated_by_Kafka_logo_with_Scalyr_colors.png" width="64px"/>
 </p>
+<br />
 <br />
 
 <!-- Row 2 [END] -->
