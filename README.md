@@ -56,7 +56,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 </p>
 
 <!-- Row 1 [START] -->
-<div>
+<p align="left">
 	<img align="left" src="https://img.icons8.com/color/100/undefined/javascript.png" width="64"/>
 	<img align="left"src="https://img.icons8.com/color/100/undefined/typescript.png" width="64px"/>
 	<img align="left"src="https://img.icons8.com/fluency/100/undefined/node-js.png" width="64px"/>
@@ -67,13 +67,12 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://img.icons8.com/color/100/undefined/graphql.png" width="64px">
 	<img align="left" src="https://iconape.com/wp-content/png_logo_vector/rabbitmq.png" width="64px">	
 	<img align="left" src="https://www.laurel-group.com/wp-content/uploads/AWS-logo.png" width="64px">
-</div>
-<br />
-<hr  width="1%" />
+</p>
+
 <!-- Row 1 [END] -->
 
 <!-- Row 2 [START] -->
-<div>
+<p align="left">
 	<img align="left" src="https://img.icons8.com/color/480/undefined/java-coffee-cup-logo--v1.png" width="64px"/>
 	<img align="left" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="64px" />
 	<img align="left" src="https://img.icons8.com/fluency/100/undefined/python.png" width="64"/>
@@ -83,13 +82,12 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://img.icons8.com/officel/100/undefined/selenium-test-automation.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/undefined/postman-api.png" width="64px"/>
 	<img align="left" src="https://www.sentinelone.com/wp-content/uploads/2019/07/19130737/Kafka_use_cases_indicated_by_Kafka_logo_with_Scalyr_colors.png" width="64px"/>
-</div>
-<br />
-<hr width="1%" />
+</p>
+
 <!-- Row 2 [END] -->
 
 <!-- Row 3 [START] -->
-<div>
+<p align="left">
 	<img align="left" src="https://img.icons8.com/color/100/undefined/git.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/github.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/color/100/undefined/gitlab.png" width="64px"/>
@@ -98,9 +96,9 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://img.icons8.com/officel/100/undefined/java-eclipse.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/undefined/sublime-text-new-logo.png"/>
 	<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/sentry-3630231-3031193.png" width="64px"/>
-</div>
-<br />
-<hr width="1%" />
+</p>
+<!-- <br />
+<hr width="1%" /> -->
 <!-- Row 3 [END] -->
 
 <br />
