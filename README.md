@@ -51,9 +51,9 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 <br />
 
 <!-- ### </> Skill set </> -->
-<div>
-	<img src="https://i.ibb.co/MnHvHM6/Skills.png" width="300px" align="left">
-</div>
+<p align="left">
+	<img src="https://i.ibb.co/MnHvHM6/Skills.png" width="300px">
+</p>
 <br />
 <hr  width="1%" />
 
