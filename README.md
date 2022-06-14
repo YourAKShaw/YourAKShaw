@@ -62,7 +62,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://img.icons8.com/color/100/undefined/redis.png" width="64px">
 	<img align="left" src="https://img.icons8.com/color/100/undefined/graphql.png" width="64px">
 	<img align="left" src="https://iconape.com/wp-content/png_logo_vector/rabbitmq.png" width="64px">	
-	<img align="left" src="https://img.icons8.com/color/100/undefined/amazon-web-services.png" width="64px">
+	<img align="left" src="https://www.laurel-group.com/wp-content/uploads/AWS-logo.png" width="64px">
 </div>
 <br />
 <hr  width="1%" />
