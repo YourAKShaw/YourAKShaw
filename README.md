@@ -50,7 +50,8 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 <br />
 <br />
 
-### </> Skill set </>
+<!-- ### </> Skill set </> -->
+<img src="https://i.ibb.co/MnHvHM6/Skills.png" width="300px" align="left">
 
 <!-- Row 1 [START] -->
 <div>
