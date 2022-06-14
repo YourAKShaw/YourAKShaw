@@ -93,6 +93,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://img.icons8.com/plasticine/100/undefined/intellij-idea.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/officel/100/undefined/java-eclipse.png" width="64px"/>
 	<img align="left" src="https://img.icons8.com/dusk/64/undefined/sublime-text-new-logo.png"/>
+	<img align="left" src="https://cdn.iconscout.com/icon/free/png-256/sentry-3630231-3031193.png" width="64px"/>
 </div>
 <br />
 <hr width="1%" />
