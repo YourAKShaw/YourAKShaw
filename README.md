@@ -66,7 +66,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 	<img align="left" src="https://www.laurel-group.com/wp-content/uploads/AWS-logo.png" width="64px">
 </div>
 <br />
-<!-- <hr  width="1%" /> -->
+<hr  width="1%" />
 <!-- Row 1 [END] -->
 
 <!-- Row 2 [START] -->
