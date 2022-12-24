@@ -111,7 +111,7 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ak-Shaw&theme=dracula" alt="GitHub stats">
 
-<img src="https://codestats-readme.vercel.app/api?username=akshaw&show_icons&theme=nightowl" alt="akshaw's code::stats stats">
+<img src="https://codestats-readme.avior.me/api/top-langs/?username=akshaw&theme=chartreuse-dark" alt="akshaw's code::stats stats">
 
 <br />
 <br />
