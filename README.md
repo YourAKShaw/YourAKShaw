@@ -4,10 +4,10 @@
 </p>
 
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Ak-Shaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=YourAKShaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ak-Shaw&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourAKShaw&theme=github-compact)
 
 <br/>
 
@@ -37,14 +37,14 @@ I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherev
 
 <a href="mailto:ayushshawz@gmail.com">
 	<img align="left" alt="GMail" width="30px" src="https://img.icons8.com/plasticine/100/undefined/gmail-new.png" />
-</a><img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/Ak-Shaw?color=green&logo=github&style=for-the-badge">
+</a><img align="left" alt="GitHub followers" src="https://img.shields.io/github/followers/YourAKShaw?color=green&logo=github&style=for-the-badge">
 
 <!-- Second row of social profile icons/badges with hyperlinks [END] -->
 <br />
 
 <!-- Third row of social profile icons/badges with hyperlinks [START] -->
 
-<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="30px" src="https://img.icons8.com/fluency/100/undefined/stackoverflow.png" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a><a href="https://dev.to/akshaw"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Kumar Shaw's DEV Community Profile" width="30px"></a><a href="https://gitlab.com/Ak-Shaw"><img align="left" src="https://img.icons8.com/color/100/undefined/gitlab.png" alt="GitLab" width="30px"></a><a href="https://codestats.net/users/akshaw"><img align="left" src="https://i.ibb.co/7CwShBx/code-stats-transparent-icon.png" alt="Codestats" width="30px"></a>
+<a href="https://stackoverflow.com/users/11622380/ayush-shaw"><img align="left" alt="StackOverflow" width="30px" src="https://img.icons8.com/fluency/100/undefined/stackoverflow.png" /></a><a href="https://medium.com/@ayushshawz"><img align="left" alt="Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" /></a><a href="https://dev.to/akshaw"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Kumar Shaw's DEV Community Profile" width="30px"></a><a href="https://gitlab.com/YourAKShaw"><img align="left" src="https://img.icons8.com/color/100/undefined/gitlab.png" alt="GitLab" width="30px"></a><a href="https://codestats.net/users/akshaw"><img align="left" src="https://i.ibb.co/7CwShBx/code-stats-transparent-icon.png" alt="Codestats" width="30px"></a>
 <!-- Third row of social profile icons/badges with hyperlinks [END] -->
 
 <br />
