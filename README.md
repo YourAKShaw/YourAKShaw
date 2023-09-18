@@ -1,10 +1,10 @@
 <!--### Hi there 👋 A K Shaw here!-->
 <p align="center">
-	<img src="https://i.ibb.co/9HFzZgc/github-profile-readme-banner-blr-rounded-corners-small.gif" />
+	<img src="https://i.ibb.co/pR6MWXX/github-banner-animated-v2.jpg" />
 </p>
 
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=YourAKShaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YourAKShaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 [![YourAKShaw's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourAKShaw&theme=github-compact)](https://github.com/YourAKShaw/github-readme-activity-graph)
