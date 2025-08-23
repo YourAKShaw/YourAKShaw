@@ -11,15 +11,22 @@
 
 <br/>
 
-You can call me <b>Ayush</b>, or <b>Shaw</b>, or whatever seems relevant to you. <i>Just kindly don't spoil the fun</i>. 😅
-<br />
-I'm a <b><i>back-end 💻 developer</i></b> and building <b><i>APIs</i></b> and <b><i>microservices</i></b> with <b><i>MVCS</i></b> architecture is kinda my thing. 😬
-<br />
+You can call me Ayush, Shaw, or whatever feels right—just don’t spoil the fun! 😅
+<br/>
+<br/>
+I’m an engineer 💡 passionate about building everything from back-end 💻 APIs and microservices with MVCS architecture to hardware and IoT projects. Innovation drives me across all tech domains.
+<br/>
+<br/>
+As a Cybersecurity Strategist 🛡️ and Computer Scientist at 27, I focus on securing technology and solving complex problems with smart, practical solutions.
+<br/>
+<br/>
+My three favorite C’s are 👨‍💻 Code, ☕ Coffee, and 🍪 Cookies—fuel for creativity and focus!
+<br/>
+<br/>
+I’m an open source 😺 enthusiast, always eager to learn new tech and upskill wherever possible.
 
-My 3 favourite C's are 👨‍💻 <b>Code</b>, ☕ <b>Coffee</b> and 🍪 <b>Cookies</b>. 
-<br />
-
-I'm an <b>open source 😺 enthusiast</b> and keen to learn tech when and wherever necessary to upskill myself. Will be doing my best to grab relatively great opportunities, and definitely will be outworking and outperforming myself. 😵😵
+<br/>
+Committed to grabbing great opportunities, I strive to outwork and outperform myself every day. Let’s create the future together! 😵🚀
 
 <!-- <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" /> -->
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" height="auto" />
