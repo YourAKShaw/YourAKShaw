@@ -12,20 +12,17 @@
 <br/>
 
 You can call me Ayush, Shaw, or whatever feels right—just don’t spoil the fun! 😅
-<br/>
-<br/>
+<br/><br/>
 I’m an engineer 💡 passionate about building everything from back-end 💻 APIs and microservices with MVCS architecture to hardware and IoT projects. Innovation drives me across all tech domains.
-<br/>
-<br/>
+<br/><br/>
 As a Cybersecurity Strategist 🛡️ and Computer Scientist at 27, I focus on securing technology and solving complex problems with smart, practical solutions.
-<br/>
-<br/>
+<br/><br/>
+I’m the Founder & CEO of [@YourAKShawInc](https://www.github.com/YourAKShawInc), a visionary parent company behind the subsidiaries [@CodeinnHQ](https://www.github.com/CodeinnHQ) and [@YourMediaChannel](https://www.github.com/YourMediaChannel), where we build and scale cutting-edge tech ventures.
+<br/><br/>
 My three favorite C’s are 👨‍💻 Code, ☕ Coffee, and 🍪 Cookies—fuel for creativity and focus!
-<br/>
-<br/>
+<br/><br/>
 I’m an open source 😺 enthusiast, always eager to learn new tech and upskill wherever possible.
-
-<br/>
+<br/><br/>
 Committed to grabbing great opportunities, I strive to outwork and outperform myself every day. Let’s create the future together! 😵🚀
 
 <!-- <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" /> -->
