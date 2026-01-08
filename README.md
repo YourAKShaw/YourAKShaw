@@ -17,7 +17,7 @@ I’m an engineer 💡 passionate about building everything from back-end 💻 A
 <br/><br/>
 I focus on securing technology and solving complex problems with smart, practical solutions.
 <br/><br/>
-I’m the Founder & CEO of [@YourAKShawInc](https://www.github.com/YourAKShawInc), a visionary parent company behind the subsidiaries [@CodeinnHQ](https://www.github.com/CodeinnHQ) and [@YourMediaChannel](https://www.github.com/YourMediaChannel), where we build and scale cutting-edge tech ventures.
+I’m the Founder & CEO of [@YourAKShawInc](https://www.github.com/YourAKShawInc), a visionary parent company behind its subsidiary [@CodeinnHQ](https://www.github.com/CodeinnHQ), where we build and scale cutting-edge tech ventures.
 <br/><br/>
 My three favorite C’s are 👨‍💻 Code, ☕ Coffee, and 🍪 Cookies—fuel for creativity and focus!
 <br/><br/>
