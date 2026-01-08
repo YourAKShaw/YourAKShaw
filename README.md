@@ -1,6 +1,6 @@
 <!--### Hi there 👋 A K Shaw here!-->
 <p align="center">
-	<img src="https://i.ibb.co/mV8DxMNW/Linkedin-Banner-Ayush-2.jpg" />
+	<img src="https://i.ibb.co/QsN8wC6/twitter-banner-teal-recolor-to-orange-brown-blend-github-crop.jpg" />
 </p>
 
 <div align="center">
