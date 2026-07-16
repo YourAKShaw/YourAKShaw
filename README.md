@@ -113,7 +113,7 @@ Committed to grabbing great opportunities, I strive to outwork and outperform my
 
 <a href="https://github.com/YourAKShaw/Deedy-Resume/blob/akShaw-resume/Ak-Shaw%20version/Ayush-Kumar-Shaw_Resume.pdf"><img align="right" src="https://i.ibb.co/1RXq4NB/resume-art-rounded-corners.png" alt="resume-art" width="250px"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YourAKShaw&theme=dracula" alt="GitHub stats">
+<img src="https://github-stats-extended.vercel.app/api?username=YourAKShaw&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=calm" alt="YourAKShaw's GitHub Stats" />
 
 <img src="https://codestats-readme.avior.me/api/top-langs/?username=akshaw&theme=chartreuse-dark" alt="akshaw's code::stats stats">
 
