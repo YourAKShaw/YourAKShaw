@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190" role="img" aria-labelledby="title desc">
+  <title id="title">Work with Ayush Kumar Shaw</title>
+  <desc id="desc">Backend engineering and AI, frontend and design, product and technical advisory. yourakshaw.com</desc>
+  <rect width="480" height="190" rx="5" fill="#0d1117"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="25" y="35" fill="#2dd4bf" font-size="18" font-weight="600">Build. Design. Advise.</text>
+    <g fill="#c9d1d9" font-size="14">
+      <text x="41" y="73">Backend engineering + AI</text>
+      <text x="41" y="102">Frontend + web and visual design</text>
+      <text x="41" y="131">Product + technical advisory</text>
+    </g>
+    <text x="25" y="165" fill="#2dd4bf" font-size="13">yourakshaw.com</text>
+  </g>
+  <g fill="#f59e0b"><circle cx="28" cy="68" r="3"/><circle cx="28" cy="97" r="3"/><circle cx="28" cy="126" r="3"/></g>
+</svg>
