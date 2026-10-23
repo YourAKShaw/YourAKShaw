@@ -89,7 +89,7 @@ Reusable frameworks and agent skills for clearer prompts, stronger engineering d
 <tr>
 <td bgcolor="#0D1117">
 <sub>01 &nbsp;·&nbsp; PROMPT DESIGN</sub><br />
-<h3>✦ <a href="https://github.com/YourAKShaw/art-prompt-framework">Art Prompt Framework</a></h3>
+<h3>✦ <a href="https://github.com/YourAKShaw/art-prompt-framework">ART Prompt Framework</a></h3>
 Turn rough ideas into precise, effective prompts with <strong>ART</strong>: Act as, Request, and Terms.<br /><br />
 <img src="https://img.shields.io/badge/Prompt_engineering-134E4A.svg?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/Agent_skills-134E4A.svg?style=flat-square" alt="Agent skills" /> <img src="https://img.shields.io/badge/Creative_tooling-134E4A.svg?style=flat-square" alt="Creative tooling" />
 </td>
