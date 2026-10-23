@@ -116,7 +116,7 @@ Create consistent, complete, and review-friendly commits that make project histo
 <tr>
 <td bgcolor="#0D1117">
 <sub>04 &nbsp;·&nbsp; DECISION SUPPORT</sub><br />
-<h3>◎ <a href="https://github.com/YourAKShaw/compass-prompt-framework">Compass Prompt Framework</a></h3>
+<h3>◎ <a href="https://github.com/YourAKShaw/compass-prompt-framework">CoMPaSS Prompt Framework</a></h3>
 Structure consequential requests around action, intention, deliverables, scope, and success criteria.<br /><br />
 <img src="https://img.shields.io/badge/Prompt_engineering-0E7490.svg?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/Decision_support-0E7490.svg?style=flat-square" alt="Decision support" /> <img src="https://img.shields.io/badge/Agent_briefs-0E7490.svg?style=flat-square" alt="Agent briefs" />
 </td>
