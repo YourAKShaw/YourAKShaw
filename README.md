@@ -48,40 +48,99 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
 
 </details>
 
-## Selected work
+## Projects, tools & products
 
-<table width="100%">
+Open-source things I’m building in public—from practical developer tools to product-shaped experiments.
+
+<table width="100%" cellpadding="16" cellspacing="0">
 <tr>
-<th width="50%" align="left">Engineering & automation</th>
-<th width="50%" align="left">AI & developer tools</th>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/YourAKShaw/microservice-template-nestjs-mongoose">NestJS + Mongoose Template</a></strong><br />
-A TypeScript starting point for REST API microservices.<br />
-<sub>TypeScript · NestJS · MongoDB</sub>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/YourAKShaw/principal-engineer-os">Principal Engineer OS</a></strong><br />
-An agent skill for design, reviews, debugging, and production readiness.<br />
-<sub>Agent skills · Architecture · Reliability</sub>
+<td bgcolor="#134E4A">
+<sub>01 &nbsp;·&nbsp; OPEN-SOURCE PRODUCT</sub><br />
+<h3>◉ <a href="https://github.com/YourAKShaw/iris">Iris</a></h3>
+Research a prospect’s website, verify the facts, and turn the brief into personalized outreach—through a CLI or a lightweight web app.<br /><br />
+<img src="https://img.shields.io/badge/AI_product-0D1117.svg?style=flat-square" alt="AI product" /> <img src="https://img.shields.io/badge/CLI_%2B_web_app-0D1117.svg?style=flat-square" alt="CLI and web app" /> <img src="https://img.shields.io/badge/Open_source-0D1117.svg?style=flat-square" alt="Open source" />
 </td>
 </tr>
+<tr><td height="10"></td></tr>
 <tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/YourAKShaw/text-to-handwriting-script">Text-to-Handwriting Scripts</a></strong><br />
-Scripts that automate an existing text-to-handwriting app.<br />
-<sub>Python · Selenium · Automation</sub>
+<td bgcolor="#92400E">
+<sub>02 &nbsp;·&nbsp; DEVELOPER TOOL</sub><br />
+<h3>⌘ <a href="https://github.com/YourAKShaw/conventional-commit-cli">Conventional Commit CLI</a></h3>
+An opinionated command-line companion for creating clean, consistent, and review-ready Conventional Commits.<br /><br />
+<img src="https://img.shields.io/badge/Developer_tool-0D1117.svg?style=flat-square" alt="Developer tool" /> <img src="https://img.shields.io/badge/Git_workflow-0D1117.svg?style=flat-square" alt="Git workflow" /> <img src="https://img.shields.io/badge/CLI-0D1117.svg?style=flat-square" alt="CLI" />
 </td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/YourAKShaw/art-prompt-framework">ART Prompt Framework</a></strong><br />
-A prompt framework and agent skill: Act as, Request, Terms.<br />
-<sub>Prompt engineering · Developer tools</sub>
+</tr>
+<tr><td height="10"></td></tr>
+<tr>
+<td bgcolor="#0E7490">
+<sub>03 &nbsp;·&nbsp; GO PACKAGE</sub><br />
+<h3>⌬ <a href="https://github.com/YourAKShaw/thineRC">thineRC</a></h3>
+A focused, reusable Go package designed to be composed into reliable developer tools and services.<br /><br />
+<img src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Package-0D1117.svg?style=flat-square" alt="Package" /> <img src="https://img.shields.io/badge/Open_source-0D1117.svg?style=flat-square" alt="Open source" />
 </td>
 </tr>
 </table>
 
-**From my workbench:** [Winston logger](https://gist.github.com/YourAKShaw/18e75a88fc3491c9b681d5113789cb1d) · [Linux terminal guide](https://gist.github.com/YourAKShaw/38affff92f578b2185f84871da1448fe) · [Express microservice template](https://github.com/YourAKShaw/microservice-template-nodejs-js)
+## Skills I’ve built
+
+Reusable frameworks and agent skills for clearer prompts, stronger engineering decisions, and healthier software delivery.
+
+<table width="100%" cellpadding="16" cellspacing="0">
+<tr>
+<td bgcolor="#0D1117">
+<sub>01 &nbsp;·&nbsp; PROMPT DESIGN</sub><br />
+<h3>✦ <a href="https://github.com/YourAKShaw/art-prompt-framework">Art Prompt Framework</a></h3>
+Turn rough ideas into precise, effective prompts with <strong>ART</strong>: Act as, Request, and Terms.<br /><br />
+<img src="https://img.shields.io/badge/Prompt_engineering-134E4A.svg?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/Agent_skills-134E4A.svg?style=flat-square" alt="Agent skills" /> <img src="https://img.shields.io/badge/Creative_tooling-134E4A.svg?style=flat-square" alt="Creative tooling" />
+</td>
+</tr>
+<tr><td height="10"></td></tr>
+<tr>
+<td bgcolor="#0D1117">
+<sub>02 &nbsp;·&nbsp; ENGINEERING JUDGMENT</sub><br />
+<h3>◈ <a href="https://github.com/YourAKShaw/principal-engineer-os">Principal Engineer OS</a></h3>
+Bring principal-engineer judgment to architecture, code reviews, debugging, refactoring, and production readiness.<br /><br />
+<img src="https://img.shields.io/badge/Architecture-134E4A.svg?style=flat-square" alt="Architecture" /> <img src="https://img.shields.io/badge/Reliability-134E4A.svg?style=flat-square" alt="Reliability" /> <img src="https://img.shields.io/badge/Production_readiness-134E4A.svg?style=flat-square" alt="Production readiness" />
+</td>
+</tr>
+<tr><td height="10"></td></tr>
+<tr>
+<td bgcolor="#0D1117">
+<sub>03 &nbsp;·&nbsp; DEVELOPER WORKFLOWS</sub><br />
+<h3>◆ <a href="https://github.com/YourAKShaw/conventional-commits-framework">Conventional Commits Framework</a></h3>
+Create consistent, complete, and review-friendly commits that make project history easier to understand and maintain.<br /><br />
+<img src="https://img.shields.io/badge/Git-92400E.svg?style=flat-square" alt="Git" /> <img src="https://img.shields.io/badge/Developer_workflows-92400E.svg?style=flat-square" alt="Developer workflows" /> <img src="https://img.shields.io/badge/Release_hygiene-92400E.svg?style=flat-square" alt="Release hygiene" />
+</td>
+</tr>
+<tr><td height="10"></td></tr>
+<tr>
+<td bgcolor="#0D1117">
+<sub>04 &nbsp;·&nbsp; DECISION SUPPORT</sub><br />
+<h3>◎ <a href="https://github.com/YourAKShaw/compass-prompt-framework">Compass Prompt Framework</a></h3>
+Structure consequential requests around action, intention, deliverables, scope, and success criteria.<br /><br />
+<img src="https://img.shields.io/badge/Prompt_engineering-0E7490.svg?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/Decision_support-0E7490.svg?style=flat-square" alt="Decision support" /> <img src="https://img.shields.io/badge/Agent_briefs-0E7490.svg?style=flat-square" alt="Agent briefs" />
+</td>
+</tr>
+</table>
+
+### From my workbench
+
+Smaller tools, notes, and reusable starting points I keep close at hand.
+
+<table width="100%" cellpadding="8" cellspacing="0">
+<tr>
+<td width="50%" valign="top"><strong><a href="https://gist.github.com/YourAKShaw/18e75a88fc3491c9b681d5113789cb1d">Winston logger</a></strong><br /><sub>Logging utility · Gist</sub></td>
+<td width="50%" valign="top"><strong><a href="https://gist.github.com/YourAKShaw/38affff92f578b2185f84871da1448fe">Linux terminal guide</a></strong><br /><sub>Reference guide · Gist</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/microservice-template-nodejs-js">Express microservice template</a></strong><br /><sub>Node.js · REST APIs</sub></td>
+<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/microservice-template-nestjs-mongoose">NestJS + Mongoose template</a></strong><br /><sub>TypeScript · MongoDB</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/text-to-handwriting-script">Text-to-handwriting scripts</a></strong><br /><sub>Python · Selenium · Automation</sub></td>
+<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw">More on GitHub →</a></strong><br /><sub>Repositories · Experiments · Notes</sub></td>
+</tr>
+</table>
 
 ## Activity & collaboration
 
