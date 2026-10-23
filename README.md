@@ -138,7 +138,7 @@ Smaller tools, notes, and reusable starting points I keep close at hand.
 </tr>
 <tr>
 <td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/text-to-handwriting-script">Text-to-handwriting scripts</a></strong><br /><sub>Python · Selenium · Automation</sub></td>
-<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw">More on GitHub →</a></strong><br /><sub>Repositories · Experiments · Notes</sub></td>
+<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw?tab=repositories">More on GitHub →</a></strong><br /><sub>Repositories · Experiments · Notes</sub></td>
 </tr>
 </table>
 
