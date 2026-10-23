@@ -48,7 +48,7 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
 
 </details>
 
-## Projects, tools & products
+<h2 align="center">Projects, tools &amp; products</h2>
 
 Open-source things I’m building in public—from practical developer tools to product-shaped experiments.
 
@@ -81,7 +81,7 @@ A focused, reusable Go package designed to be composed into reliable developer t
 </tr>
 </table>
 
-## Skills I’ve built
+<h2 align="center">Skills I’ve built</h2>
 
 Reusable frameworks and agent skills for clearer prompts, stronger engineering decisions, and healthier software delivery.
 
@@ -142,7 +142,7 @@ Smaller tools, notes, and reusable starting points I keep close at hand.
 </tr>
 </table>
 
-## Activity & collaboration
+<h2 align="center">Activity &amp; collaboration</h2>
 
 <table width="100%">
 <tr>
