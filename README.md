@@ -121,6 +121,15 @@ Structure consequential requests around action, intention, deliverables, scope, 
 <img src="https://img.shields.io/badge/Prompt_engineering-0E7490.svg?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/Decision_support-0E7490.svg?style=flat-square" alt="Decision support" /> <img src="https://img.shields.io/badge/Agent_briefs-0E7490.svg?style=flat-square" alt="Agent briefs" />
 </td>
 </tr>
+<tr><td height="10"></td></tr>
+<tr>
+<td bgcolor="#0D1117">
+<sub>05 &nbsp;·&nbsp; SESSION CONTINUITY</sub><br />
+<h3>↔ <a href="https://github.com/YourAKShaw/handoff">Handoff</a></h3>
+Save and resume session context so AI agents can continue work with a clear, reliable handoff.<br /><br />
+<img src="https://img.shields.io/badge/Agent_workflows-0E7490.svg?style=flat-square" alt="Agent workflows" /> <img src="https://img.shields.io/badge/Session_continuity-0E7490.svg?style=flat-square" alt="Session continuity" /> <img src="https://img.shields.io/badge/Documentation-0E7490.svg?style=flat-square" alt="Documentation" />
+</td>
+</tr>
 </table>
 
 ### From my workbench
