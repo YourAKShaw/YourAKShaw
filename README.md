@@ -159,7 +159,7 @@ Smaller tools, notes, and reusable starting points I keep close at hand.
 <th width="50%" align="left">02 · Contribution streak</th>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw"><img src="https://github-readme-stats.vercel.app/api?username=YourAKShaw&card_width=480&line_height=24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=F59E0B&text_color=C9D1D9&rank_icon=github&disable_animations=false" width="480" height="190" alt="YourAKShaw's public GitHub statistics" /></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw"><img src="https://github-readme-stats-fast.vercel.app/api?username=YourAKShaw&card_width=480&line_height=24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=F59E0B&text_color=C9D1D9&rank_icon=github&disable_animations=false" width="480" height="190" alt="YourAKShaw's public GitHub statistics" /></a></td>
 <td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw?tab=overview"><img src="https://streak-stats.demolab.com/?user=YourAKShaw&card_width=480&card_height=190&hide_border=true&background=0D1117&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&disable_animations=false" width="480" height="190" alt="YourAKShaw's contribution streak" /></a></td>
 </tr>
 <tr>
@@ -167,7 +167,7 @@ Smaller tools, notes, and reusable starting points I keep close at hand.
 <th width="50%" align="left">04 · Work together</th>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourAKShaw&card_width=480&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&disable_animations=false" width="480" height="190" alt="Language usage across eligible public repositories" /></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YourAKShaw&card_width=480&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&disable_animations=false" width="480" height="190" alt="Language usage across eligible public repositories" /></a></td>
 <td width="50%" align="center" valign="top"><a href="https://yourakshaw.com"><img src="https://raw.githubusercontent.com/YourAKShaw/YourAKShaw/main/assets/work-together.svg" width="480" height="190" alt="Work together: backend and AI, frontend and design, product and technical advisory. Visit yourakshaw.com." /></a></td>
 </tr>
 </table>
