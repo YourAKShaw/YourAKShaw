@@ -130,6 +130,15 @@ Save and resume session context so AI agents can continue work with a clear, rel
 <img src="https://img.shields.io/badge/Agent_workflows-0E7490.svg?style=flat-square" alt="Agent workflows" /> <img src="https://img.shields.io/badge/Session_continuity-0E7490.svg?style=flat-square" alt="Session continuity" /> <img src="https://img.shields.io/badge/Documentation-0E7490.svg?style=flat-square" alt="Documentation" />
 </td>
 </tr>
+<tr><td height="10"></td></tr>
+<tr>
+<td bgcolor="#0D1117">
+<sub>06 &nbsp;·&nbsp; GITHUB WORKFLOWS</sub><br />
+<h3>⬡ <a href="https://github.com/YourAKShaw/cutwater">cutwater</a></h3>
+Set up and audit GitHub repositories, then guide work from issue to branch, Conventional Commits, and pull request.<br /><br />
+<img src="https://img.shields.io/badge/GitHub-134E4A.svg?style=flat-square" alt="GitHub" /> <img src="https://img.shields.io/badge/Issue--first_workflow-134E4A.svg?style=flat-square" alt="Issue-first workflow" /> <img src="https://img.shields.io/badge/Agent_skills-134E4A.svg?style=flat-square" alt="Agent skills" />
+</td>
+</tr>
 </table>
 
 ### From my workbench
