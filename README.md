@@ -56,7 +56,7 @@ Open-source things I’m building in public—from practical developer tools to 
 <tr>
 <td bgcolor="#134E4A">
 <sub>01 &nbsp;·&nbsp; OPEN-SOURCE PRODUCT</sub><br />
-<h3>◉ <a href="https://github.com/YourAKShaw/iris">Iris</a></h3>
+<h3>◉ <a href="https://github.com/YourAKShaw/irisveil">IrisVeil</a></h3>
 Research a prospect’s website, verify the facts, and turn the brief into personalized outreach—through a CLI or a lightweight web app.<br /><br />
 <img src="https://img.shields.io/badge/AI_product-0D1117.svg?style=flat-square" alt="AI product" /> <img src="https://img.shields.io/badge/CLI_%2B_web_app-0D1117.svg?style=flat-square" alt="CLI and web app" /> <img src="https://img.shields.io/badge/Open_source-0D1117.svg?style=flat-square" alt="Open source" />
 </td>
@@ -65,7 +65,7 @@ Research a prospect’s website, verify the facts, and turn the brief into perso
 <tr>
 <td bgcolor="#92400E">
 <sub>02 &nbsp;·&nbsp; DEVELOPER TOOL</sub><br />
-<h3>⌘ <a href="https://github.com/YourAKShaw/conventional-commit-cli">Conventional Commit CLI</a></h3>
+<h3>⌘ <a href="https://github.com/YourAKShaw/conventional-commits-cli">Conventional Commits CLI</a></h3>
 An opinionated command-line companion for creating clean, consistent, and review-ready Conventional Commits.<br /><br />
 <img src="https://img.shields.io/badge/Developer_tool-0D1117.svg?style=flat-square" alt="Developer tool" /> <img src="https://img.shields.io/badge/Git_workflow-0D1117.svg?style=flat-square" alt="Git workflow" /> <img src="https://img.shields.io/badge/CLI-0D1117.svg?style=flat-square" alt="CLI" />
 </td>
