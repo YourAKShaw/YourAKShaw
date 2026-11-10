@@ -14,7 +14,7 @@ I'm **Ayush**, a founder and engineer in **Kolkata, India**. **Backend engineeri
 
 I also work as a **web, UI/UX, and graphic designer**, using Figma and Canva. I bring a designer's eye to the interfaces I build and a founder's perspective to product and technical advisory work.
 
-As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the parent company behind [CodeinnHQ](https://github.com/CodeinnHQ), I build and run ventures. My open-source work turns engineering ideas into reusable templates, agent skills, automation scripts, and practical guides.
+As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the parent company behind [CodeinnHQ](https://github.com/CodeinnHQ) and [NayaManas](https://github.com/NayaManas), I build and run ventures. My open-source work turns engineering ideas into reusable templates, agent skills, automation scripts, and practical guides.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YourAKShaw/YourAKShaw/main/assets/engineering-pulse.svg" width="100%" height="44" alt="A custom animated circuit connecting three pulsing nodes" />
