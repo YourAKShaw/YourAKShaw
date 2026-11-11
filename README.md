@@ -61,65 +61,21 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
   <a href="https://github.com/YourAKShaw/conventional-commits-cli"><img src="assets/card-conventional-commits-cli.svg" width="388" alt="Conventional Commits CLI: An opinionated command-line companion for creating clean, consistent, and review-ready Conventional Commits." /></a> <a href="https://github.com/YourAKShaw/thineRC"><img src="assets/card-thinerc.svg" width="388" alt="thineRC: A focused, reusable Go package designed to be composed into reliable developer tools and services." /></a>
 </p>
 
-<h2 align="center">Skills I’ve built</h2>
+<p align="center">
+  <img src="assets/section-skills.svg" width="100%" alt="Skills I’ve built" />
+</p>
 
-Reusable frameworks and agent skills for clearer prompts, stronger engineering decisions, and healthier software delivery.
+<p align="center">Reusable frameworks and agent skills for clearer prompts, stronger engineering decisions, and healthier software delivery.</p>
 
-<table width="100%" cellpadding="16" cellspacing="0">
-<tr>
-<td bgcolor="#0D1117">
-<sub>01 &nbsp;·&nbsp; PROMPT DESIGN</sub><br />
-<h3>✦ <a href="https://github.com/YourAKShaw/art-prompt-framework">ART Prompt Framework</a></h3>
-Turn rough ideas into precise, effective prompts with <strong>ART</strong>: Act as, Request, and Terms.<br /><br />
-<img src="https://img.shields.io/badge/Prompt_engineering-134E4A.svg?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/Agent_skills-134E4A.svg?style=flat-square" alt="Agent skills" /> <img src="https://img.shields.io/badge/Creative_tooling-134E4A.svg?style=flat-square" alt="Creative tooling" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>02 &nbsp;·&nbsp; ENGINEERING JUDGMENT</sub><br />
-<h3>◈ <a href="https://github.com/YourAKShaw/principal-engineer-os">Principal Engineer OS</a></h3>
-Bring principal-engineer judgment to architecture, code reviews, debugging, refactoring, and production readiness.<br /><br />
-<img src="https://img.shields.io/badge/Architecture-134E4A.svg?style=flat-square" alt="Architecture" /> <img src="https://img.shields.io/badge/Reliability-134E4A.svg?style=flat-square" alt="Reliability" /> <img src="https://img.shields.io/badge/Production_readiness-134E4A.svg?style=flat-square" alt="Production readiness" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>03 &nbsp;·&nbsp; DEVELOPER WORKFLOWS</sub><br />
-<h3>◆ <a href="https://github.com/YourAKShaw/conventional-commits-framework">Conventional Commits Framework</a></h3>
-Create consistent, complete, and review-friendly commits that make project history easier to understand and maintain.<br /><br />
-<img src="https://img.shields.io/badge/Git-92400E.svg?style=flat-square" alt="Git" /> <img src="https://img.shields.io/badge/Developer_workflows-92400E.svg?style=flat-square" alt="Developer workflows" /> <img src="https://img.shields.io/badge/Release_hygiene-92400E.svg?style=flat-square" alt="Release hygiene" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>04 &nbsp;·&nbsp; DECISION SUPPORT</sub><br />
-<h3>◎ <a href="https://github.com/YourAKShaw/compass-prompt-framework">CoMPaSS Prompt Framework</a></h3>
-Structure consequential requests around action, intention, deliverables, scope, and success criteria.<br /><br />
-<img src="https://img.shields.io/badge/Prompt_engineering-0E7490.svg?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/Decision_support-0E7490.svg?style=flat-square" alt="Decision support" /> <img src="https://img.shields.io/badge/Agent_briefs-0E7490.svg?style=flat-square" alt="Agent briefs" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>05 &nbsp;·&nbsp; SESSION CONTINUITY</sub><br />
-<h3>↔ <a href="https://github.com/YourAKShaw/handoff">Handoff</a></h3>
-Save and resume session context so AI agents can continue work with a clear, reliable handoff.<br /><br />
-<img src="https://img.shields.io/badge/Agent_workflows-0E7490.svg?style=flat-square" alt="Agent workflows" /> <img src="https://img.shields.io/badge/Session_continuity-0E7490.svg?style=flat-square" alt="Session continuity" /> <img src="https://img.shields.io/badge/Documentation-0E7490.svg?style=flat-square" alt="Documentation" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>06 &nbsp;·&nbsp; GITHUB WORKFLOWS</sub><br />
-<h3>⬡ <a href="https://github.com/YourAKShaw/cutwater">cutwater</a></h3>
-Set up and audit GitHub repositories, then guide work from issue to branch, Conventional Commits, and pull request.<br /><br />
-<img src="https://img.shields.io/badge/GitHub-134E4A.svg?style=flat-square" alt="GitHub" /> <img src="https://img.shields.io/badge/Issue--first_workflow-134E4A.svg?style=flat-square" alt="Issue-first workflow" /> <img src="https://img.shields.io/badge/Agent_skills-134E4A.svg?style=flat-square" alt="Agent skills" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/art-prompt-framework"><img src="assets/skill-art.svg" width="388" alt="ART Prompt Framework: Turn rough ideas into precise, effective prompts with ART: Act as, Request, and Terms." /></a> <a href="https://github.com/YourAKShaw/principal-engineer-os"><img src="assets/skill-principal-engineer-os.svg" width="388" alt="Principal Engineer OS: Bring principal-engineer judgment to architecture, code reviews, debugging, refactoring, and production readiness." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/conventional-commits-framework"><img src="assets/skill-conventional-commits.svg" width="388" alt="Conventional Commits Framework: Create consistent, complete, and review-friendly commits that make project history easier to understand and maintain." /></a> <a href="https://github.com/YourAKShaw/compass-prompt-framework"><img src="assets/skill-compass.svg" width="388" alt="CoMPaSS Prompt Framework: Structure consequential requests around action, intention, deliverables, scope, and success criteria." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/handoff"><img src="assets/skill-handoff.svg" width="388" alt="Handoff: Save and resume session context so AI agents can continue work with a clear, reliable handoff." /></a> <a href="https://github.com/YourAKShaw/cutwater"><img src="assets/skill-cutwater.svg" width="388" alt="cutwater: Set up and audit GitHub repositories, then guide work from issue to branch, Conventional Commits, and pull request." /></a>
+</p>
 
 ### From my workbench
 
