@@ -1,0 +1,110 @@
+{
+  "$schema": "https://raw.githubusercontent.com/YourAKShaw/CutWater/main/skills/cutwater/assets/manifest.schema.json",
+  "schemaVersion": 1,
+  "skillVersion": "0.1.0",
+  "createdAt": "2026-11-11T01:40:21Z",
+  "updatedAt": "2026-11-11T01:40:21Z",
+  "repo": "YourAKShaw/YourAKShaw",
+  "defaultBranch": "main",
+  "choices": {
+    "visibility": "public",
+    "stack": "generic",
+    "license": "none",
+    "ci": [
+      "lint",
+      "test",
+      "build"
+    ],
+    "dependencyBot": "dependabot",
+    "wiki": false,
+    "projectsBoard": null,
+    "ruleset": true,
+    "emojiLabels": false,
+    "acceptOrgDefaults": false,
+    "copyrightYear": "2026",
+    "copyrightHolder": "YourAKShaw",
+    "maintainer": "YourAKShaw",
+    "securityContact": ""
+  },
+  "applied": {
+    "files": {
+      ".editorconfig": {
+        "template": "repo/editorconfig",
+        "sha256": "fbd52ef0fc94dd06e581e0cc9f6c052ff145242e1709e2d82d8f468315b660b9"
+      },
+      ".github/CODEOWNERS": {
+        "template": "repo/CODEOWNERS",
+        "sha256": "8c0123dde6e975a249ebf0fe8ffb52bf24e42c48afc3d49f5baa59fcf53125ec"
+      },
+      ".github/dependabot.yml": {
+        "template": "dependabot.yml",
+        "sha256": "ff7bbaa3fb4662c2341e1fab6097e102b0c74ed3d6e36e1ffaab7accb6b1d9dc"
+      },
+      ".github/ISSUE_TEMPLATE/bug.yml": {
+        "template": "issue-forms/bug.yml",
+        "sha256": "41778f348b81fa4afda8c48faa7e4a476ebf9953898ce96af720ae4b8d19522c"
+      },
+      ".github/ISSUE_TEMPLATE/chore.yml": {
+        "template": "issue-forms/chore.yml",
+        "sha256": "b0595d795204a44d25cfb7c64bca7368f0dcc2f03bf423c162de62d5a9768fd5"
+      },
+      ".github/ISSUE_TEMPLATE/config.yml": {
+        "template": "issue-forms/config.yml",
+        "sha256": "afd52552cbfaba82ad53a239d8dfd710647f062248c215faa38c4dfeb6d3334f"
+      },
+      ".github/ISSUE_TEMPLATE/docs.yml": {
+        "template": "issue-forms/docs.yml",
+        "sha256": "94f58944d268ceda7ff5d5ab0a24fa6fbb2b05bfc0ace14f810ccc7fe316c494"
+      },
+      ".github/ISSUE_TEMPLATE/feature.yml": {
+        "template": "issue-forms/feature.yml",
+        "sha256": "7067165cd473cd2baee5e44f0e7e10440c5b653d75957416562f8c888ceb4ee0"
+      },
+      ".github/PULL_REQUEST_TEMPLATE.md": {
+        "template": "pr/PULL_REQUEST_TEMPLATE.md",
+        "sha256": "8d047f144bbbeecf1296fb9be77402c3aee6603e01fabd388c02621955a5a110"
+      },
+      ".github/workflows/ci.yml": {
+        "template": "workflows/ci-generic.yml",
+        "sha256": "ffb3426f5e34a1abb01e4179198510644c6f2adefc8f5d6eece2cdb68da5ac79"
+      },
+      ".gitignore": {
+        "template": "repo/gitignore-generic",
+        "sha256": "4cff0ac2eea6ccfe94a609beb9de470dba4dd166d21fc57d2efeb75c6ce2fa42"
+      },
+      "CODE_OF_CONDUCT.md": {
+        "template": "community/CODE_OF_CONDUCT.md",
+        "sha256": "c8cc5bd8d1caae80bb9fb0ad1ffb93cc98da6e5af3c581462c228f3e52cac68d"
+      },
+      "CONTRIBUTING.md": {
+        "template": "community/CONTRIBUTING.md",
+        "sha256": "c3b05180bee2590059ed35c7a6e11c561abe3dab4dcbce5878ef027a303adfa4"
+      },
+      "SECURITY.md": {
+        "template": "community/SECURITY.md",
+        "sha256": "f3bfe68609ff42e45aa47ae5aad8301947f02d1bff6aeee0973c5d07cf879068"
+      }
+    },
+    "labels": [
+      "priority: p0",
+      "priority: p1",
+      "priority: p2",
+      "priority: p3",
+      "scope-change",
+      "status: blocked",
+      "status: in-progress",
+      "status: needs-review",
+      "type: build",
+      "type: chore",
+      "type: ci",
+      "type: docs",
+      "type: feat",
+      "type: fix",
+      "type: perf",
+      "type: refactor",
+      "type: style",
+      "type: test"
+    ],
+    "rulesetId": null
+  }
+}
