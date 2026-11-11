@@ -1,0 +1,56 @@
+name: 🔧 Chore or refactor
+description: Maintenance, refactoring, build, CI, test or performance work with no new user-facing feature.
+title: "🔧 chore: "
+labels: ["type: chore"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for work that changes how the project is built or organised rather than what it does for users.
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why is this work needed now?
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      description: The end state, in one or two sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: One checkbox per observable criterion, including "no behavior change" where it applies.
+      value: |
+        - [ ]
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+    validations:
+      required: false
+  - type: textarea
+    id: out-of-scope
+    attributes:
+      label: Out of scope
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Technical notes
+    validations:
+      required: false
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Task checklist
+    validations:
+      required: false
