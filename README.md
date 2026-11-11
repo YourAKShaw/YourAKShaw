@@ -93,25 +93,15 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
   <a href="https://github.com/YourAKShaw/text-to-handwriting-script"><img src="assets/bench-handwriting.svg" width="388" alt="Text-to-handwriting scripts: Python · Selenium · Automation" /></a> <a href="https://github.com/YourAKShaw?tab=repositories"><img src="assets/bench-more.svg" width="388" alt="More on GitHub: Repositories · Experiments · Notes" /></a>
 </p>
 
-<h2 align="center">Activity &amp; collaboration</h2>
+<p align="center">
+  <img src="assets/section-activity.svg" width="100%" alt="Activity &amp; collaboration" />
+</p>
 
-<table width="100%">
-<tr>
-<th width="50%" align="left">01 · GitHub overview</th>
-<th width="50%" align="left">02 · Contribution streak</th>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw"><img src="https://github-readme-stats-fast.vercel.app/api?username=YourAKShaw&card_width=480&line_height=24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=F59E0B&text_color=C9D1D9&rank_icon=github&disable_animations=false" width="480" height="190" alt="YourAKShaw's public GitHub statistics" /></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw?tab=overview"><img src="https://streak-stats.demolab.com/?user=YourAKShaw&card_width=480&card_height=190&hide_border=true&background=0D1117&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&disable_animations=false" width="480" height="190" alt="YourAKShaw's contribution streak" /></a></td>
-</tr>
-<tr>
-<th width="50%" align="left">03 · Repository languages</th>
-<th width="50%" align="left">04 · Work together</th>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YourAKShaw&card_width=480&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&disable_animations=false" width="480" height="190" alt="Language usage across eligible public repositories" /></a></td>
-<td width="50%" align="center" valign="top"><a href="https://yourakshaw.com"><img src="https://raw.githubusercontent.com/YourAKShaw/YourAKShaw/main/assets/work-together.svg" width="480" height="190" alt="Work together: backend and AI, frontend and design, product and technical advisory. Visit yourakshaw.com." /></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/YourAKShaw"><img src="https://github-readme-stats-fast.vercel.app/api?username=YourAKShaw&amp;card_width=480&amp;line_height=24&amp;show_icons=true&amp;icon_color=F59E0B&amp;rank_icon=github&amp;border_color=134E4A&amp;border_radius=14&amp;bg_color=0D1117&amp;title_color=2DD4BF&amp;text_color=C9D1D9&amp;disable_animations=false" width="388" alt="YourAKShaw’s public GitHub statistics" /></a> <a href="https://github.com/YourAKShaw?tab=overview"><img src="https://streak-stats.demolab.com/?user=YourAKShaw&amp;card_width=480&amp;card_height=190&amp;border=134E4A&amp;border_radius=14&amp;background=0D1117&amp;ring=2DD4BF&amp;fire=F59E0B&amp;currStreakLabel=2DD4BF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;disable_animations=false" width="388" alt="YourAKShaw’s contribution streak" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=YourAKShaw&amp;card_width=480&amp;layout=compact&amp;langs_count=8&amp;border_color=134E4A&amp;border_radius=14&amp;bg_color=0D1117&amp;title_color=2DD4BF&amp;text_color=C9D1D9&amp;disable_animations=false" width="388" alt="Language usage across eligible public repositories" /></a> <a href="https://yourakshaw.com"><img src="assets/work-together.svg" width="388" alt="Work together: backend and AI, frontend and design, product and technical advisory. Visit yourakshaw.com." /></a>
+</p>
 
 <p align="center"><sub>Code, coffee, cookies. Built with care in Kolkata.</sub></p>

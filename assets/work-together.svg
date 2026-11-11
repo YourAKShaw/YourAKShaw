@@ -1,15 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190" role="img" aria-labelledby="title desc">
-  <title id="title">Work with Ayush Kumar Shaw</title>
-  <desc id="desc">Backend engineering and AI, frontend and design, product and technical advisory. yourakshaw.com</desc>
-  <rect width="480" height="190" rx="5" fill="#0d1117"/>
-  <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="25" y="35" fill="#2dd4bf" font-size="18" font-weight="600">Build. Design. Advise.</text>
-    <g fill="#c9d1d9" font-size="14">
-      <text x="41" y="73">Backend engineering + AI</text>
-      <text x="41" y="102">Frontend + web and visual design</text>
-      <text x="41" y="131">Product + technical advisory</text>
-    </g>
-    <text x="25" y="165" fill="#2dd4bf" font-size="13">yourakshaw.com</text>
-  </g>
-  <g fill="#f59e0b"><circle cx="28" cy="68" r="3"/><circle cx="28" cy="97" r="3"/><circle cx="28" cy="126" r="3"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190" role="img" aria-labelledby="t d">
+<title id="t">Work with Ayush Kumar Shaw</title><desc id="d">Backend engineering and AI, frontend and design, product and technical advisory. yourakshaw.com</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.rise{animation:rise 1s cubic-bezier(.2,.7,.2,1) both}@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.o{transform-box:fill-box;transform-origin:center}
+.pulse{animation:pulse 3.2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+.spin{animation:spin 14s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
+.sway{animation:sway 6s ease-in-out infinite}@keyframes sway{0%,100%{transform:rotate(-24deg)}50%{transform:rotate(30deg)}}
+.blink{animation:blink 1.4s steps(2,jump-none) infinite}@keyframes blink{from{opacity:1}to{opacity:0}}
+.sweep{animation:sweep 11s linear infinite}@keyframes sweep{to{stroke-dashoffset:-100}}
+.slide{animation:slide 5s ease-in-out infinite alternate}@keyframes slide{from{transform:translateX(-3px)}to{transform:translateX(3px)}}
+.bar{transform-box:fill-box;transform-origin:bottom;animation:bar 2.6s ease-in-out infinite}@keyframes bar{0%,100%{transform:scaleY(.45)}50%{transform:scaleY(1)}}
+.drift{animation:drift 16s linear infinite}.drift2{animation:drift 24s linear infinite reverse}@keyframes drift{to{transform:translateX(-480px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.smil{display:none}}</style>
+<defs><radialGradient id="r" cx="0.9" cy="0.9" r=".9"><stop stop-color="#2DD4BF" stop-opacity=".17"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="479" height="189" rx="14" fill="#0D1117" stroke="#134E4A"/><rect x=".5" y=".5" width="479" height="189" rx="14" fill="url(#r)"/><rect class="sweep" style="animation-delay:-0s" x=".5" y=".5" width="479" height="189" rx="14" fill="none" stroke="#2DD4BF" stroke-width="1.2" pathLength="100" stroke-dasharray="9 91"/>
+<g transform="translate(404 62)"><g fill="none" stroke="#2DD4BF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle r="12" opacity=".5"/><circle r="3.4" fill="#2DD4BF"/><g class="spin" style="transform-origin:0 0;transform-box:view-box"><circle cx="12" r="2.4" fill="#2DD4BF" stroke="none"/></g></g></g>
+<g class="rise"><text x="25" y="42" font-size="20" font-weight="600" fill="#2DD4BF">Build. Design. Advise.</text><circle class="o pulse" style="animation-delay:0.0s" cx="30" cy="74" r="3" fill="#F59E0B"/><text x="46" y="78" font-size="14.5" fill="#C9D1D9">Backend engineering + AI</text><circle class="o pulse" style="animation-delay:0.7s" cx="30" cy="102" r="3" fill="#F59E0B"/><text x="46" y="106" font-size="14.5" fill="#C9D1D9">Frontend + web and visual design</text><circle class="o pulse" style="animation-delay:1.4s" cx="30" cy="130" r="3" fill="#F59E0B"/><text x="46" y="134" font-size="14.5" fill="#C9D1D9">Product + technical advisory</text>
+<text class="m" x="25" y="168" font-size="13" fill="#2DD4BF">yourakshaw.com</text></g><path d="M446 167L455 158M448 158H455V165" fill="none" stroke="#2DD4BF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
 </svg>
