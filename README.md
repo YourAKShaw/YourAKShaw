@@ -77,24 +77,21 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
   <a href="https://github.com/YourAKShaw/handoff"><img src="assets/skill-handoff.svg" width="388" alt="Handoff: Save and resume session context so AI agents can continue work with a clear, reliable handoff." /></a> <a href="https://github.com/YourAKShaw/cutwater"><img src="assets/skill-cutwater.svg" width="388" alt="cutwater: Set up and audit GitHub repositories, then guide work from issue to branch, Conventional Commits, and pull request." /></a>
 </p>
 
-### From my workbench
+<p align="center">
+  <img src="assets/section-workbench.svg" width="100%" alt="From my workbench" />
+</p>
 
-Smaller tools, notes, and reusable starting points I keep close at hand.
+<p align="center">Smaller tools, notes, and reusable starting points I keep close at hand.</p>
 
-<table width="100%" cellpadding="8" cellspacing="0">
-<tr>
-<td width="50%" valign="top"><strong><a href="https://gist.github.com/YourAKShaw/18e75a88fc3491c9b681d5113789cb1d">Winston logger</a></strong><br /><sub>Logging utility · Gist</sub></td>
-<td width="50%" valign="top"><strong><a href="https://gist.github.com/YourAKShaw/38affff92f578b2185f84871da1448fe">Linux terminal guide</a></strong><br /><sub>Reference guide · Gist</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/microservice-template-nodejs-js">Express microservice template</a></strong><br /><sub>Node.js · REST APIs</sub></td>
-<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/microservice-template-nestjs-mongoose">NestJS + Mongoose template</a></strong><br /><sub>TypeScript · MongoDB</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/text-to-handwriting-script">Text-to-handwriting scripts</a></strong><br /><sub>Python · Selenium · Automation</sub></td>
-<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw?tab=repositories">More on GitHub →</a></strong><br /><sub>Repositories · Experiments · Notes</sub></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://gist.github.com/YourAKShaw/18e75a88fc3491c9b681d5113789cb1d"><img src="assets/bench-winston-logger.svg" width="388" alt="Winston logger: Logging utility · Gist" /></a> <a href="https://gist.github.com/YourAKShaw/38affff92f578b2185f84871da1448fe"><img src="assets/bench-linux-terminal.svg" width="388" alt="Linux terminal guide: Reference guide · Gist" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/microservice-template-nodejs-js"><img src="assets/bench-express-template.svg" width="388" alt="Express microservice template: Node.js · REST APIs" /></a> <a href="https://github.com/YourAKShaw/microservice-template-nestjs-mongoose"><img src="assets/bench-nestjs-template.svg" width="388" alt="NestJS + Mongoose template: TypeScript · MongoDB" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/text-to-handwriting-script"><img src="assets/bench-handwriting.svg" width="388" alt="Text-to-handwriting scripts: Python · Selenium · Automation" /></a> <a href="https://github.com/YourAKShaw?tab=repositories"><img src="assets/bench-more.svg" width="388" alt="More on GitHub: Repositories · Experiments · Notes" /></a>
+</p>
 
 <h2 align="center">Activity &amp; collaboration</h2>
 

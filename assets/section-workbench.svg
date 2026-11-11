@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="120" viewBox="0 0 960 120" role="img" aria-labelledby="t d">
+<title id="t">From my workbench</title><desc id="d">Animated section header: tools · notes · starters.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.rise{animation:rise 1s cubic-bezier(.2,.7,.2,1) both}@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.o{transform-box:fill-box;transform-origin:center}
+.pulse{animation:pulse 3.2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+.spin{animation:spin 14s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
+.sway{animation:sway 6s ease-in-out infinite}@keyframes sway{0%,100%{transform:rotate(-24deg)}50%{transform:rotate(30deg)}}
+.blink{animation:blink 1.4s steps(2,jump-none) infinite}@keyframes blink{from{opacity:1}to{opacity:0}}
+.sweep{animation:sweep 11s linear infinite}@keyframes sweep{to{stroke-dashoffset:-100}}
+.slide{animation:slide 5s ease-in-out infinite alternate}@keyframes slide{from{transform:translateX(-3px)}to{transform:translateX(3px)}}
+.bar{transform-box:fill-box;transform-origin:bottom;animation:bar 2.6s ease-in-out infinite}@keyframes bar{0%,100%{transform:scaleY(.45)}50%{transform:scaleY(1)}}
+.drift{animation:drift 16s linear infinite}.drift2{animation:drift 24s linear infinite reverse}@keyframes drift{to{transform:translateX(-480px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.smil{display:none}}</style>
+<defs><linearGradient id="g"><stop stop-color="#0D1117"/><stop offset=".5" stop-color="#134E4A"/><stop offset="1" stop-color="#14B8A6"/></linearGradient><clipPath id="c"><path d="M0 16C160-6 320 40 480 18S800-6 960 16V100C800 124 640 76 480 100S160 124 0 100Z"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="960" height="120" fill="url(#g)"/>
+<path class="drift" d="M0 52C120 30 360 74 480 52C600 30 840 74 960 52C1080 30 1320 74 1440 52C1560 30 1800 74 1920 52V140H0Z" fill="#5EEAD4" opacity=".07"/><path class="drift2" d="M0 72C120 56 360 88 480 72C600 56 840 88 960 72C1080 56 1320 88 1440 72C1560 56 1800 88 1920 72V140H0Z" fill="#FFFFFF" opacity=".05"/></g>
+<g fill="none" stroke="#5EEAD4" stroke-width="1.2" opacity=".55"><path d="M112 58H150l10-10h40l10 10H238"/><path d="M722 58H750l10 10h40l10-10H848"/></g>
+<g fill="#F59E0B"><circle cx="112" cy="58" r="2.6"/><circle cx="238" cy="58" r="2.6"/><circle cx="722" cy="58" r="2.6"/><circle cx="848" cy="58" r="2.6"/></g>
+<circle class="smil" r="2.4" fill="#CCFBF1" opacity="0"><animateMotion dur="5s" begin="0s" repeatCount="indefinite" path="M112 58H150l10-10h40l10 10H238"/><animate attributeName="opacity" values="0;1;1;0" dur="5s" begin="0s" repeatCount="indefinite"/></circle><circle class="smil" r="2.4" fill="#CCFBF1" opacity="0"><animateMotion dur="5s" begin="2.5s" repeatCount="indefinite" path="M722 58H750l10 10h40l10-10H848"/><animate attributeName="opacity" values="0;1;1;0" dur="5s" begin="2.5s" repeatCount="indefinite"/></circle>
+<g transform="translate(72 58)"><g fill="none" stroke="#5EEAD4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M-5-9-13 0-5 9M5-9 13 0 5 9"/><path class="pulse" d="M2-12-2 12"/></g></g>
+<g class="rise" text-anchor="middle"><text class="m" x="480" y="44" font-size="11" letter-spacing="3" fill="#99F6E4">TOOLS · NOTES · STARTERS</text>
+<text x="480" y="80" font-size="30" font-weight="600" fill="#FFFFFF">From my workbench</text></g>
+<text class="m" x="906" y="63" text-anchor="middle" font-size="14" font-weight="600" fill="#0D1117" opacity=".75">03</text>
+</svg>

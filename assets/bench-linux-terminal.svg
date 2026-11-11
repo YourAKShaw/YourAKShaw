@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="72" viewBox="0 0 388 72" role="img" aria-labelledby="t d">
+<title id="t">Linux terminal guide</title><desc id="d">Reference guide · Gist</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.rise{animation:rise 1s cubic-bezier(.2,.7,.2,1) both}@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.o{transform-box:fill-box;transform-origin:center}
+.pulse{animation:pulse 3.2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+.spin{animation:spin 14s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
+.sway{animation:sway 6s ease-in-out infinite}@keyframes sway{0%,100%{transform:rotate(-24deg)}50%{transform:rotate(30deg)}}
+.blink{animation:blink 1.4s steps(2,jump-none) infinite}@keyframes blink{from{opacity:1}to{opacity:0}}
+.sweep{animation:sweep 11s linear infinite}@keyframes sweep{to{stroke-dashoffset:-100}}
+.slide{animation:slide 5s ease-in-out infinite alternate}@keyframes slide{from{transform:translateX(-3px)}to{transform:translateX(3px)}}
+.bar{transform-box:fill-box;transform-origin:bottom;animation:bar 2.6s ease-in-out infinite}@keyframes bar{0%,100%{transform:scaleY(.45)}50%{transform:scaleY(1)}}
+.drift{animation:drift 16s linear infinite}.drift2{animation:drift 24s linear infinite reverse}@keyframes drift{to{transform:translateX(-480px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.smil{display:none}}</style>
+<defs><radialGradient id="r" cx="1" cy="0.5" r=".9"><stop stop-color="#2DD4BF" stop-opacity=".17"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient></defs>
+<rect x=".5" y=".5" width="387" height="71" rx="14" fill="#0D1117" stroke="#134E4A"/><rect x=".5" y=".5" width="387" height="71" rx="14" fill="url(#r)"/><rect class="sweep" style="animation-delay:-2.6s" x=".5" y=".5" width="387" height="71" rx="14" fill="none" stroke="#2DD4BF" stroke-width="1.2" pathLength="100" stroke-dasharray="9 91"/>
+<text class="m" x="26" y="41" text-anchor="middle" font-size="12" fill="#6E7681">02</text><path d="M46 14V58" stroke="#134E4A"/>
+<path d="M60 26l6 5-6 5" fill="none" stroke="#2DD4BF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="rise"><text x="76" y="36" font-size="15.5" font-weight="600" fill="#FFFFFF">Linux terminal guide</text>
+<text class="m" x="76" y="55" font-size="11" fill="#8B949E">Reference guide · Gist</text></g><path d="M358 29L367 20M360 20H367V27" fill="none" stroke="#2DD4BF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
+</svg>
