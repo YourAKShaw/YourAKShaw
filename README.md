@@ -105,3 +105,7 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
 </p>
 
 <p align="center"><sub>Code, coffee, cookies. Built with care in Kolkata.</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:14B8A6,50:134E4A,100:0D1117&amp;height=110&amp;section=footer&amp;animation=fadeIn" width="100%" alt="" />
+</p>
