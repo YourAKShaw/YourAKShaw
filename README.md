@@ -20,7 +20,9 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
   <img src="https://raw.githubusercontent.com/YourAKShaw/YourAKShaw/main/assets/engineering-pulse.svg" width="100%" height="44" alt="A custom animated circuit connecting three pulsing nodes" />
 </p>
 
-## Skills & stack
+<p align="center">
+  <img src="assets/section-stack.svg" width="100%" alt="Skills &amp; stack" />
+</p>
 
 | Area | Skills & tools |
 | :--- | :--- |
