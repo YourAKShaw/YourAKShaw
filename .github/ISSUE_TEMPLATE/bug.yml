@@ -1,0 +1,70 @@
+name: 🐛 Bug report
+description: Something is broken or behaves differently from what it should.
+title: "🐛 fix: "
+labels: ["type: fix"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search existing issues first. Remove secrets, tokens and personal data from anything you paste.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: One or two sentences on what is wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The smallest sequence of steps or commands that shows the problem.
+      placeholder: |
+        1. Run ...
+        2. Open ...
+        3. See ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Include error messages or logs, with secrets removed.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Version or commit, operating system, runtime version.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: How will we know it is fixed? One checkbox per criterion.
+      value: |
+        - [ ]
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Technical notes
+      description: Suspected cause, related code, or constraints.
+    validations:
+      required: false
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Task checklist
+      description: Steps to complete the fix. Usually filled in by whoever picks it up.
+    validations:
+      required: false

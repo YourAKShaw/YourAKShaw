@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/YourAKShaw/YourAKShaw/security/advisories/new
+    about: Report vulnerabilities privately. Never open a public issue for them.
+  - name: 📖 Contributing guide
+    url: https://github.com/YourAKShaw/YourAKShaw/blob/HEAD/CONTRIBUTING.md
+    about: How issues, branches, commits and pull requests work in this project.

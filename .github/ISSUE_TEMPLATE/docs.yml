@@ -1,0 +1,40 @@
+name: 📝 Documentation
+description: Missing, wrong or unclear documentation.
+title: "📝 docs: "
+labels: ["type: docs"]
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What is missing, wrong or confusing, and who does it affect?
+    validations:
+      required: true
+  - type: textarea
+    id: pages
+    attributes:
+      label: Pages affected
+      description: Files, sections or URLs.
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      description: What should a reader be able to do after the change?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      value: |
+        - [ ]
+    validations:
+      required: true
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Task checklist
+    validations:
+      required: false
