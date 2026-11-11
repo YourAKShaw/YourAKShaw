@@ -48,38 +48,18 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
 
 </details>
 
-<h2 align="center">Projects, tools &amp; products</h2>
+<p align="center">
+  <img src="assets/section-projects.svg" width="100%" alt="Projects, tools &amp; products" />
+</p>
 
-Open-source things I’m building in public—from practical developer tools to product-shaped experiments.
+<p align="center">Open-source things I’m building in public—from practical developer tools to product-shaped experiments.</p>
 
-<table width="100%" cellpadding="16" cellspacing="0">
-<tr>
-<td bgcolor="#134E4A">
-<sub>01 &nbsp;·&nbsp; OPEN-SOURCE PRODUCT</sub><br />
-<h3>◉ <a href="https://github.com/YourAKShaw/irisveil">IrisVeil</a></h3>
-Research a prospect’s website, verify the facts, and turn the brief into personalized outreach—through a CLI or a lightweight web app.<br /><br />
-<img src="https://img.shields.io/badge/AI_product-0D1117.svg?style=flat-square" alt="AI product" /> <img src="https://img.shields.io/badge/CLI_%2B_web_app-0D1117.svg?style=flat-square" alt="CLI and web app" /> <img src="https://img.shields.io/badge/Open_source-0D1117.svg?style=flat-square" alt="Open source" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#92400E">
-<sub>02 &nbsp;·&nbsp; DEVELOPER TOOL</sub><br />
-<h3>⌘ <a href="https://github.com/YourAKShaw/conventional-commits-cli">Conventional Commits CLI</a></h3>
-An opinionated command-line companion for creating clean, consistent, and review-ready Conventional Commits.<br /><br />
-<img src="https://img.shields.io/badge/Developer_tool-0D1117.svg?style=flat-square" alt="Developer tool" /> <img src="https://img.shields.io/badge/Git_workflow-0D1117.svg?style=flat-square" alt="Git workflow" /> <img src="https://img.shields.io/badge/CLI-0D1117.svg?style=flat-square" alt="CLI" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0E7490">
-<sub>03 &nbsp;·&nbsp; GO PACKAGE</sub><br />
-<h3>⌬ <a href="https://github.com/YourAKShaw/thineRC">thineRC</a></h3>
-A focused, reusable Go package designed to be composed into reliable developer tools and services.<br /><br />
-<img src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Package-0D1117.svg?style=flat-square" alt="Package" /> <img src="https://img.shields.io/badge/Open_source-0D1117.svg?style=flat-square" alt="Open source" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/irisveil"><img src="assets/card-irisveil.svg" width="780" alt="IrisVeil: research a prospect’s website, verify the facts, and turn the brief into personalized outreach, through a CLI or a lightweight web app." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/conventional-commits-cli"><img src="assets/card-conventional-commits-cli.svg" width="388" alt="Conventional Commits CLI: An opinionated command-line companion for creating clean, consistent, and review-ready Conventional Commits." /></a> <a href="https://github.com/YourAKShaw/thineRC"><img src="assets/card-thinerc.svg" width="388" alt="thineRC: A focused, reusable Go package designed to be composed into reliable developer tools and services." /></a>
+</p>
 
 <h2 align="center">Skills I’ve built</h2>
 
