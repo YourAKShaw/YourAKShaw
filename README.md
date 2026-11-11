@@ -48,137 +48,64 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
 
 </details>
 
-<h2 align="center">Projects, tools &amp; products</h2>
+<p align="center">
+  <img src="assets/section-projects.svg" width="100%" alt="Projects, tools &amp; products" />
+</p>
 
-Open-source things I’m building in public—from practical developer tools to product-shaped experiments.
+<p align="center">Open-source things I’m building in public—from practical developer tools to product-shaped experiments.</p>
 
-<table width="100%" cellpadding="16" cellspacing="0">
-<tr>
-<td bgcolor="#134E4A">
-<sub>01 &nbsp;·&nbsp; OPEN-SOURCE PRODUCT</sub><br />
-<h3>◉ <a href="https://github.com/YourAKShaw/irisveil">IrisVeil</a></h3>
-Research a prospect’s website, verify the facts, and turn the brief into personalized outreach—through a CLI or a lightweight web app.<br /><br />
-<img src="https://img.shields.io/badge/AI_product-0D1117.svg?style=flat-square" alt="AI product" /> <img src="https://img.shields.io/badge/CLI_%2B_web_app-0D1117.svg?style=flat-square" alt="CLI and web app" /> <img src="https://img.shields.io/badge/Open_source-0D1117.svg?style=flat-square" alt="Open source" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#92400E">
-<sub>02 &nbsp;·&nbsp; DEVELOPER TOOL</sub><br />
-<h3>⌘ <a href="https://github.com/YourAKShaw/conventional-commits-cli">Conventional Commits CLI</a></h3>
-An opinionated command-line companion for creating clean, consistent, and review-ready Conventional Commits.<br /><br />
-<img src="https://img.shields.io/badge/Developer_tool-0D1117.svg?style=flat-square" alt="Developer tool" /> <img src="https://img.shields.io/badge/Git_workflow-0D1117.svg?style=flat-square" alt="Git workflow" /> <img src="https://img.shields.io/badge/CLI-0D1117.svg?style=flat-square" alt="CLI" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0E7490">
-<sub>03 &nbsp;·&nbsp; GO PACKAGE</sub><br />
-<h3>⌬ <a href="https://github.com/YourAKShaw/thineRC">thineRC</a></h3>
-A focused, reusable Go package designed to be composed into reliable developer tools and services.<br /><br />
-<img src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Package-0D1117.svg?style=flat-square" alt="Package" /> <img src="https://img.shields.io/badge/Open_source-0D1117.svg?style=flat-square" alt="Open source" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/irisveil"><img src="assets/card-irisveil.svg" width="780" alt="IrisVeil: research a prospect’s website, verify the facts, and turn the brief into personalized outreach, through a CLI or a lightweight web app." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/conventional-commits-cli"><img src="assets/card-conventional-commits-cli.svg" width="388" alt="Conventional Commits CLI: An opinionated command-line companion for creating clean, consistent, and review-ready Conventional Commits." /></a> <a href="https://github.com/YourAKShaw/thineRC"><img src="assets/card-thinerc.svg" width="388" alt="thineRC: A focused, reusable Go package designed to be composed into reliable developer tools and services." /></a>
+</p>
 
-<h2 align="center">Skills I’ve built</h2>
+<p align="center">
+  <img src="assets/section-skills.svg" width="100%" alt="Skills I’ve built" />
+</p>
 
-Reusable frameworks and agent skills for clearer prompts, stronger engineering decisions, and healthier software delivery.
+<p align="center">Reusable frameworks and agent skills for clearer prompts, stronger engineering decisions, and healthier software delivery.</p>
 
-<table width="100%" cellpadding="16" cellspacing="0">
-<tr>
-<td bgcolor="#0D1117">
-<sub>01 &nbsp;·&nbsp; PROMPT DESIGN</sub><br />
-<h3>✦ <a href="https://github.com/YourAKShaw/art-prompt-framework">ART Prompt Framework</a></h3>
-Turn rough ideas into precise, effective prompts with <strong>ART</strong>: Act as, Request, and Terms.<br /><br />
-<img src="https://img.shields.io/badge/Prompt_engineering-134E4A.svg?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/Agent_skills-134E4A.svg?style=flat-square" alt="Agent skills" /> <img src="https://img.shields.io/badge/Creative_tooling-134E4A.svg?style=flat-square" alt="Creative tooling" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>02 &nbsp;·&nbsp; ENGINEERING JUDGMENT</sub><br />
-<h3>◈ <a href="https://github.com/YourAKShaw/principal-engineer-os">Principal Engineer OS</a></h3>
-Bring principal-engineer judgment to architecture, code reviews, debugging, refactoring, and production readiness.<br /><br />
-<img src="https://img.shields.io/badge/Architecture-134E4A.svg?style=flat-square" alt="Architecture" /> <img src="https://img.shields.io/badge/Reliability-134E4A.svg?style=flat-square" alt="Reliability" /> <img src="https://img.shields.io/badge/Production_readiness-134E4A.svg?style=flat-square" alt="Production readiness" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>03 &nbsp;·&nbsp; DEVELOPER WORKFLOWS</sub><br />
-<h3>◆ <a href="https://github.com/YourAKShaw/conventional-commits-framework">Conventional Commits Framework</a></h3>
-Create consistent, complete, and review-friendly commits that make project history easier to understand and maintain.<br /><br />
-<img src="https://img.shields.io/badge/Git-92400E.svg?style=flat-square" alt="Git" /> <img src="https://img.shields.io/badge/Developer_workflows-92400E.svg?style=flat-square" alt="Developer workflows" /> <img src="https://img.shields.io/badge/Release_hygiene-92400E.svg?style=flat-square" alt="Release hygiene" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>04 &nbsp;·&nbsp; DECISION SUPPORT</sub><br />
-<h3>◎ <a href="https://github.com/YourAKShaw/compass-prompt-framework">CoMPaSS Prompt Framework</a></h3>
-Structure consequential requests around action, intention, deliverables, scope, and success criteria.<br /><br />
-<img src="https://img.shields.io/badge/Prompt_engineering-0E7490.svg?style=flat-square" alt="Prompt engineering" /> <img src="https://img.shields.io/badge/Decision_support-0E7490.svg?style=flat-square" alt="Decision support" /> <img src="https://img.shields.io/badge/Agent_briefs-0E7490.svg?style=flat-square" alt="Agent briefs" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>05 &nbsp;·&nbsp; SESSION CONTINUITY</sub><br />
-<h3>↔ <a href="https://github.com/YourAKShaw/handoff">Handoff</a></h3>
-Save and resume session context so AI agents can continue work with a clear, reliable handoff.<br /><br />
-<img src="https://img.shields.io/badge/Agent_workflows-0E7490.svg?style=flat-square" alt="Agent workflows" /> <img src="https://img.shields.io/badge/Session_continuity-0E7490.svg?style=flat-square" alt="Session continuity" /> <img src="https://img.shields.io/badge/Documentation-0E7490.svg?style=flat-square" alt="Documentation" />
-</td>
-</tr>
-<tr><td height="10"></td></tr>
-<tr>
-<td bgcolor="#0D1117">
-<sub>06 &nbsp;·&nbsp; GITHUB WORKFLOWS</sub><br />
-<h3>⬡ <a href="https://github.com/YourAKShaw/cutwater">cutwater</a></h3>
-Set up and audit GitHub repositories, then guide work from issue to branch, Conventional Commits, and pull request.<br /><br />
-<img src="https://img.shields.io/badge/GitHub-134E4A.svg?style=flat-square" alt="GitHub" /> <img src="https://img.shields.io/badge/Issue--first_workflow-134E4A.svg?style=flat-square" alt="Issue-first workflow" /> <img src="https://img.shields.io/badge/Agent_skills-134E4A.svg?style=flat-square" alt="Agent skills" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/art-prompt-framework"><img src="assets/skill-art.svg" width="388" alt="ART Prompt Framework: Turn rough ideas into precise, effective prompts with ART: Act as, Request, and Terms." /></a> <a href="https://github.com/YourAKShaw/principal-engineer-os"><img src="assets/skill-principal-engineer-os.svg" width="388" alt="Principal Engineer OS: Bring principal-engineer judgment to architecture, code reviews, debugging, refactoring, and production readiness." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/conventional-commits-framework"><img src="assets/skill-conventional-commits.svg" width="388" alt="Conventional Commits Framework: Create consistent, complete, and review-friendly commits that make project history easier to understand and maintain." /></a> <a href="https://github.com/YourAKShaw/compass-prompt-framework"><img src="assets/skill-compass.svg" width="388" alt="CoMPaSS Prompt Framework: Structure consequential requests around action, intention, deliverables, scope, and success criteria." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/handoff"><img src="assets/skill-handoff.svg" width="388" alt="Handoff: Save and resume session context so AI agents can continue work with a clear, reliable handoff." /></a> <a href="https://github.com/YourAKShaw/cutwater"><img src="assets/skill-cutwater.svg" width="388" alt="cutwater: Set up and audit GitHub repositories, then guide work from issue to branch, Conventional Commits, and pull request." /></a>
+</p>
 
-### From my workbench
+<p align="center">
+  <img src="assets/section-workbench.svg" width="100%" alt="From my workbench" />
+</p>
 
-Smaller tools, notes, and reusable starting points I keep close at hand.
+<p align="center">Smaller tools, notes, and reusable starting points I keep close at hand.</p>
 
-<table width="100%" cellpadding="8" cellspacing="0">
-<tr>
-<td width="50%" valign="top"><strong><a href="https://gist.github.com/YourAKShaw/18e75a88fc3491c9b681d5113789cb1d">Winston logger</a></strong><br /><sub>Logging utility · Gist</sub></td>
-<td width="50%" valign="top"><strong><a href="https://gist.github.com/YourAKShaw/38affff92f578b2185f84871da1448fe">Linux terminal guide</a></strong><br /><sub>Reference guide · Gist</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/microservice-template-nodejs-js">Express microservice template</a></strong><br /><sub>Node.js · REST APIs</sub></td>
-<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/microservice-template-nestjs-mongoose">NestJS + Mongoose template</a></strong><br /><sub>TypeScript · MongoDB</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw/text-to-handwriting-script">Text-to-handwriting scripts</a></strong><br /><sub>Python · Selenium · Automation</sub></td>
-<td width="50%" valign="top"><strong><a href="https://github.com/YourAKShaw?tab=repositories">More on GitHub →</a></strong><br /><sub>Repositories · Experiments · Notes</sub></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://gist.github.com/YourAKShaw/18e75a88fc3491c9b681d5113789cb1d"><img src="assets/bench-winston-logger.svg" width="388" alt="Winston logger: Logging utility · Gist" /></a> <a href="https://gist.github.com/YourAKShaw/38affff92f578b2185f84871da1448fe"><img src="assets/bench-linux-terminal.svg" width="388" alt="Linux terminal guide: Reference guide · Gist" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/microservice-template-nodejs-js"><img src="assets/bench-express-template.svg" width="388" alt="Express microservice template: Node.js · REST APIs" /></a> <a href="https://github.com/YourAKShaw/microservice-template-nestjs-mongoose"><img src="assets/bench-nestjs-template.svg" width="388" alt="NestJS + Mongoose template: TypeScript · MongoDB" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw/text-to-handwriting-script"><img src="assets/bench-handwriting.svg" width="388" alt="Text-to-handwriting scripts: Python · Selenium · Automation" /></a> <a href="https://github.com/YourAKShaw?tab=repositories"><img src="assets/bench-more.svg" width="388" alt="More on GitHub: Repositories · Experiments · Notes" /></a>
+</p>
 
-<h2 align="center">Activity &amp; collaboration</h2>
+<p align="center">
+  <img src="assets/section-activity.svg" width="100%" alt="Activity &amp; collaboration" />
+</p>
 
-<table width="100%">
-<tr>
-<th width="50%" align="left">01 · GitHub overview</th>
-<th width="50%" align="left">02 · Contribution streak</th>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw"><img src="https://github-readme-stats-fast.vercel.app/api?username=YourAKShaw&card_width=480&line_height=24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=F59E0B&text_color=C9D1D9&rank_icon=github&disable_animations=false" width="480" height="190" alt="YourAKShaw's public GitHub statistics" /></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw?tab=overview"><img src="https://streak-stats.demolab.com/?user=YourAKShaw&card_width=480&card_height=190&hide_border=true&background=0D1117&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&disable_animations=false" width="480" height="190" alt="YourAKShaw's contribution streak" /></a></td>
-</tr>
-<tr>
-<th width="50%" align="left">03 · Repository languages</th>
-<th width="50%" align="left">04 · Work together</th>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/YourAKShaw?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YourAKShaw&card_width=480&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&disable_animations=false" width="480" height="190" alt="Language usage across eligible public repositories" /></a></td>
-<td width="50%" align="center" valign="top"><a href="https://yourakshaw.com"><img src="https://raw.githubusercontent.com/YourAKShaw/YourAKShaw/main/assets/work-together.svg" width="480" height="190" alt="Work together: backend and AI, frontend and design, product and technical advisory. Visit yourakshaw.com." /></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/YourAKShaw"><img src="https://github-readme-stats-fast.vercel.app/api?username=YourAKShaw&amp;card_width=480&amp;line_height=24&amp;show_icons=true&amp;icon_color=F59E0B&amp;rank_icon=github&amp;border_color=134E4A&amp;border_radius=14&amp;bg_color=0D1117&amp;title_color=2DD4BF&amp;text_color=C9D1D9&amp;disable_animations=false" width="388" alt="YourAKShaw’s public GitHub statistics" /></a> <a href="https://github.com/YourAKShaw?tab=overview"><img src="https://streak-stats.demolab.com/?user=YourAKShaw&amp;card_width=480&amp;card_height=190&amp;border=134E4A&amp;border_radius=14&amp;background=0D1117&amp;ring=2DD4BF&amp;fire=F59E0B&amp;currStreakLabel=2DD4BF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;disable_animations=false" width="388" alt="YourAKShaw’s contribution streak" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/YourAKShaw?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=YourAKShaw&amp;card_width=480&amp;layout=compact&amp;langs_count=8&amp;border_color=134E4A&amp;border_radius=14&amp;bg_color=0D1117&amp;title_color=2DD4BF&amp;text_color=C9D1D9&amp;disable_animations=false" width="388" alt="Language usage across eligible public repositories" /></a> <a href="https://yourakshaw.com"><img src="assets/work-together.svg" width="388" alt="Work together: backend and AI, frontend and design, product and technical advisory. Visit yourakshaw.com." /></a>
+</p>
 
 <p align="center"><sub>Code, coffee, cookies. Built with care in Kolkata.</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:14B8A6,50:134E4A,100:0D1117&amp;height=110&amp;section=footer&amp;animation=fadeIn" width="100%" alt="" />
+</p>
