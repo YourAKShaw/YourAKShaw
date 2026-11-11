@@ -1,0 +1,4 @@
+# Default owner for everything in the repository. Owners are requested
+# for review on every pull request. See
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+* @YourAKShaw
