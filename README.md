@@ -100,10 +100,10 @@ As **Founder & CEO of [YourAKShawInc](https://github.com/YourAKShawInc)**, the p
 </p>
 
 <p align="center">
-  <a href="https://github.com/YourAKShaw"><img src="https://github-readme-stats-fast.vercel.app/api?username=YourAKShaw&amp;card_width=480&amp;line_height=24&amp;show_icons=true&amp;icon_color=F59E0B&amp;rank_icon=github&amp;border_color=134E4A&amp;border_radius=14&amp;bg_color=0D1117&amp;title_color=2DD4BF&amp;text_color=C9D1D9&amp;disable_animations=false" width="388" alt="YourAKShaw’s public GitHub statistics" /></a> <a href="https://github.com/YourAKShaw?tab=overview"><img src="https://streak-stats.demolab.com/?user=YourAKShaw&amp;card_width=480&amp;card_height=190&amp;border=134E4A&amp;border_radius=14&amp;background=0D1117&amp;ring=2DD4BF&amp;fire=F59E0B&amp;currStreakLabel=2DD4BF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;disable_animations=false" width="388" alt="YourAKShaw’s contribution streak" /></a>
+  <a href="https://github.com/YourAKShaw"><img src="https://raw.githubusercontent.com/YourAKShaw/YourAKShaw/output/stats.svg" width="388" alt="YourAKShaw’s public GitHub statistics" /></a> <a href="https://github.com/YourAKShaw?tab=overview"><img src="https://raw.githubusercontent.com/YourAKShaw/YourAKShaw/output/streak.svg" width="388" alt="YourAKShaw’s contribution streak" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/YourAKShaw?tab=repositories"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=YourAKShaw&amp;card_width=480&amp;layout=compact&amp;langs_count=8&amp;border_color=134E4A&amp;border_radius=14&amp;bg_color=0D1117&amp;title_color=2DD4BF&amp;text_color=C9D1D9&amp;disable_animations=false" width="388" alt="Language usage across eligible public repositories" /></a> <a href="https://yourakshaw.com"><img src="assets/work-together.svg" width="388" alt="Work together: backend and AI, frontend and design, product and technical advisory. Visit yourakshaw.com." /></a>
+  <a href="https://github.com/YourAKShaw?tab=repositories"><img src="https://raw.githubusercontent.com/YourAKShaw/YourAKShaw/output/top-langs.svg" width="388" alt="Language usage across eligible public repositories" /></a> <a href="https://yourakshaw.com"><img src="assets/work-together.svg" width="388" alt="Work together: backend and AI, frontend and design, product and technical advisory. Visit yourakshaw.com." /></a>
 </p>
 
 <p align="center"><sub>Code, coffee, cookies. Built with care in Kolkata.</sub></p>
