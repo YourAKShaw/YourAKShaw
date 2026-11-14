@@ -1,20 +1,76 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190" role="img" aria-labelledby="t d">
-<title id="t">Work with Ayush Kumar Shaw</title><desc id="d">Backend engineering and AI, frontend and design, product and technical advisory. yourakshaw.com</desc>
+<title id="t">Work with Ayush Kumar Shaw</title><desc id="d">Build, design, advise. Backend engineering and AI, frontend and visual design, product and technical advisory. Open for projects at yourakshaw.com</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
-.rise{animation:rise 1s cubic-bezier(.2,.7,.2,1) both}@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 .o{transform-box:fill-box;transform-origin:center}
-.pulse{animation:pulse 3.2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
-.spin{animation:spin 14s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
-.sway{animation:sway 6s ease-in-out infinite}@keyframes sway{0%,100%{transform:rotate(-24deg)}50%{transform:rotate(30deg)}}
-.blink{animation:blink 1.4s steps(2,jump-none) infinite}@keyframes blink{from{opacity:1}to{opacity:0}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2.4s cubic-bezier(0,0,.2,1) infinite}@keyframes ping{0%{transform:scale(1);opacity:.7}80%,100%{transform:scale(2.6);opacity:0}}
 .sweep{animation:sweep 11s linear infinite}@keyframes sweep{to{stroke-dashoffset:-100}}
-.slide{animation:slide 5s ease-in-out infinite alternate}@keyframes slide{from{transform:translateX(-3px)}to{transform:translateX(3px)}}
-.bar{transform-box:fill-box;transform-origin:bottom;animation:bar 2.6s ease-in-out infinite}@keyframes bar{0%,100%{transform:scaleY(.45)}50%{transform:scaleY(1)}}
-.drift{animation:drift 16s linear infinite}.drift2{animation:drift 24s linear infinite reverse}@keyframes drift{to{transform:translateX(-480px)}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}.smil{display:none}}</style>
-<defs><radialGradient id="r" cx="0.9" cy="0.9" r=".9"><stop stop-color="#2DD4BF" stop-opacity=".17"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient></defs>
-<rect x=".5" y=".5" width="479" height="189" rx="14" fill="#0D1117" stroke="#134E4A"/><rect x=".5" y=".5" width="479" height="189" rx="14" fill="url(#r)"/><rect class="sweep" style="animation-delay:-0s" x=".5" y=".5" width="479" height="189" rx="14" fill="none" stroke="#2DD4BF" stroke-width="1.2" pathLength="100" stroke-dasharray="9 91"/>
-<g transform="translate(404 62)"><g fill="none" stroke="#2DD4BF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle r="12" opacity=".5"/><circle r="3.4" fill="#2DD4BF"/><g class="spin" style="transform-origin:0 0;transform-box:view-box"><circle cx="12" r="2.4" fill="#2DD4BF" stroke="none"/></g></g></g>
-<g class="rise"><text x="25" y="42" font-size="20" font-weight="600" fill="#2DD4BF">Build. Design. Advise.</text><circle class="o pulse" style="animation-delay:0.0s" cx="30" cy="74" r="3" fill="#F59E0B"/><text x="46" y="78" font-size="14.5" fill="#C9D1D9">Backend engineering + AI</text><circle class="o pulse" style="animation-delay:0.7s" cx="30" cy="102" r="3" fill="#F59E0B"/><text x="46" y="106" font-size="14.5" fill="#C9D1D9">Frontend + web and visual design</text><circle class="o pulse" style="animation-delay:1.4s" cx="30" cy="130" r="3" fill="#F59E0B"/><text x="46" y="134" font-size="14.5" fill="#C9D1D9">Product + technical advisory</text>
-<text class="m" x="25" y="168" font-size="13" fill="#2DD4BF">yourakshaw.com</text></g><path d="M446 167L455 158M448 158H455V165" fill="none" stroke="#2DD4BF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
+.blink{animation:blink 1.1s steps(2,jump-none) infinite}@keyframes blink{from{opacity:1}to{opacity:0}}
+.sway{transform-box:fill-box;transform-origin:50% 100%;animation:sway 3.6s ease-in-out infinite}@keyframes sway{0%,100%{transform:rotate(-14deg)}50%{transform:rotate(14deg)}}
+.needle{transform-box:view-box;animation:needle 5s ease-in-out infinite}@keyframes needle{0%,100%{transform:rotate(-35deg)}40%{transform:rotate(60deg)}70%{transform:rotate(20deg)}}
+.flow{animation:flow 1.6s linear infinite}@keyframes flow{to{stroke-dashoffset:-12}}
+.nudge{animation:nudge 1.8s ease-in-out infinite}@keyframes nudge{0%,100%{transform:translate(0,0)}50%{transform:translate(2px,-2px)}}
+.shine{animation:shine 5s ease-in-out 1.2s infinite}@keyframes shine{from{transform:translateX(-90px)}to{transform:translateX(480px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<radialGradient id="r" cx="0.9" cy="0.9" r=".9"><stop stop-color="#2DD4BF" stop-opacity=".17"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#16302E"/></pattern>
+<linearGradient id="cta" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF" stop-opacity=".16"/><stop offset="1" stop-color="#F59E0B" stop-opacity=".12"/></linearGradient>
+<linearGradient id="ctaEdge" x1="0" x2="1"><stop offset="0" stop-color="#2DD4BF" stop-opacity=".8"/><stop offset="1" stop-color="#F59E0B" stop-opacity=".7"/></linearGradient>
+<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".12"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+<clipPath id="ctaClip"><rect x="24" y="146" width="432" height="28" rx="14"/></clipPath>
+<clipPath id="card"><rect x="1" y="1" width="478" height="188" rx="14"/></clipPath>
+</defs>
+
+<!-- frame: border + sweeping highlight (unchanged) -->
+<rect x=".5" y=".5" width="479" height="189" rx="14" fill="#0D1117" stroke="#134E4A"/>
+<g clip-path="url(#card)"><rect width="480" height="190" fill="url(#dots)" opacity=".8"/></g>
+<rect x=".5" y=".5" width="479" height="189" rx="14" fill="url(#r)"/>
+<rect class="sweep" x=".5" y=".5" width="479" height="189" rx="14" fill="none" stroke="#2DD4BF" stroke-width="1.2" pathLength="100" stroke-dasharray="9 91"/>
+
+<!-- header -->
+<g class="rise"><circle class="pulse" cx="24" cy="24" r="4" fill="#2DD4BF"/>
+<text x="36" y="28.5" font-size="13" font-weight="700" fill="#2DD4BF" letter-spacing=".4">Work together</text></g>
+<g class="rise" style="animation-delay:.15s">
+<rect x="350" y="13" width="106" height="21" rx="10.5" fill="#F59E0B" fill-opacity=".1" stroke="#F59E0B" stroke-opacity=".45"/>
+<circle class="ping" cx="363" cy="23.5" r="3" fill="#F59E0B"/><circle cx="363" cy="23.5" r="3" fill="#F59E0B"/>
+<text class="m" x="372" y="27.5" font-size="10" fill="#F59E0B">open for work</text></g>
+
+<!-- headline -->
+<text class="rise" style="animation-delay:.25s" x="24" y="64" font-size="21" font-weight="800" letter-spacing="-.2"><tspan fill="#FFFFFF">Build.</tspan><tspan fill="#2DD4BF"> Design.</tspan><tspan fill="#F59E0B"> Advise.</tspan></text>
+
+<!-- tile 1: backend + AI -->
+<g class="rise" style="animation-delay:.4s">
+<rect x="24" y="78" width="136" height="56" rx="10" fill="#0F1A1C" stroke="#134E4A"/>
+<g transform="translate(38 92)" fill="none" stroke="#2DD4BF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M5 0L0 5L5 10"/><path d="M15 0L20 5L15 10"/><path class="blink" d="M10 1.5V8.5" stroke="#F59E0B"/></g>
+<text x="66" y="101" font-size="12" font-weight="700" fill="#FFFFFF">Backend + AI</text>
+<text class="m" x="36" y="123" font-size="9.5" fill="#8B949E">APIs · agents · data</text></g>
+
+<!-- tile 2: frontend + design -->
+<g class="rise" style="animation-delay:.55s">
+<rect x="172" y="78" width="136" height="56" rx="10" fill="#0F1A1C" stroke="#134E4A"/>
+<g transform="translate(186 88)"><g class="sway" fill="none" stroke="#2DD4BF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 0L16 8L10 16L4 8Z"/><circle cx="10" cy="8" r="1.6" fill="#F59E0B" stroke="none"/><path d="M10 16V18"/></g></g>
+<text x="214" y="101" font-size="12" font-weight="700" fill="#FFFFFF">Web + design</text>
+<text class="m" x="184" y="123" font-size="9.5" fill="#8B949E">React · Next.js · UI</text></g>
+
+<!-- tile 3: advisory -->
+<g class="rise" style="animation-delay:.7s">
+<rect x="320" y="78" width="136" height="56" rx="10" fill="#0F1A1C" stroke="#134E4A"/>
+<g transform="translate(344 97)"><circle r="9" fill="none" stroke="#2DD4BF" stroke-width="1.6"/>
+<g class="needle" style="transform-origin:0 0"><path d="M0 -6L2 0L0 6L-2 0Z" fill="#F59E0B"/></g><circle r="1.2" fill="#0D1117"/></g>
+<text x="362" y="101" font-size="12" font-weight="700" fill="#FFFFFF">Advisory</text>
+<text class="m" x="332" y="123" font-size="9.5" fill="#8B949E">product · strategy</text></g>
+
+<!-- call to action -->
+<g class="rise" style="animation-delay:.9s">
+<rect x="24" y="146" width="432" height="28" rx="14" fill="url(#cta)" stroke="url(#ctaEdge)"/>
+<g clip-path="url(#ctaClip)"><rect class="shine" x="24" y="146" width="90" height="28" fill="url(#beam)"/></g>
+<text class="m" x="40" y="164" font-size="12"><tspan fill="#F59E0B">$</tspan><tspan fill="#C9D1D9"> open </tspan><tspan fill="#2DD4BF">yourakshaw.com</tspan></text>
+<rect class="blink" x="190" y="154" width="7" height="13" fill="#2DD4BF" fill-opacity=".85"/>
+<path class="flow" d="M300 160H372" stroke="#134E4A" stroke-width="1.4" stroke-dasharray="4 8" stroke-linecap="round"/>
+<text x="420" y="164.5" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="end">Let’s talk</text>
+<g class="nudge"><path d="M428 165L436 157M430 157H436V163" fill="none" stroke="#F59E0B" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g></g>
 </svg>
