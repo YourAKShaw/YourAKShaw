@@ -1,0 +1,46 @@
+name: Activity cards
+
+# Renders the README activity cards and publishes them to the `output`
+# branch, so they never depend on a third-party card host. Add a
+# CARDS_TOKEN secret (a read-only PAT) to include private contributions.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate-cards.mjs
+      - .github/workflows/cards.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    name: Generate activity cards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Render cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.CARDS_TOKEN || github.token }}
+        run: node scripts/generate-cards.mjs "${{ github.repository_owner }}" dist
+      - name: Publish to the output branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "chore(cards): :card_file_box: refresh activity cards"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" output
