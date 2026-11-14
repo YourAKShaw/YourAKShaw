@@ -32,12 +32,14 @@ async function gql(query, variables = {}) {
 }
 
 async function fetchData() {
-  const base = await gql(`query($login:String!){user(login:$login){
+  const now = new Date();
+  const yearStart = new Date(Date.UTC(now.getUTCFullYear(), 0, 1)).toISOString();
+  const base = await gql(`query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){
     name createdAt followers{totalCount}
     pullRequests{totalCount} issues{totalCount}
     repositoriesContributedTo(contributionTypes:[COMMIT,PULL_REQUEST,ISSUE,REPOSITORY]){totalCount}
-    contributionsCollection{totalCommitContributions totalPullRequestReviewContributions}
-  }}`, { login: LOGIN });
+    contributionsCollection(from:$from,to:$to){totalCommitContributions}
+  }}`, { login: LOGIN, from: yearStart, to: now.toISOString() });
   const user = base.user;
 
   const repos = [];
@@ -56,7 +58,6 @@ async function fetchData() {
   // One contribution calendar per year since the account was created.
   const days = [];
   const startYear = new Date(user.createdAt).getUTCFullYear();
-  const now = new Date();
   for (let y = startYear; y <= now.getUTCFullYear(); y++) {
     const from = new Date(Date.UTC(y, 0, 1)).toISOString();
     const to = (y === now.getUTCFullYear() ? now : new Date(Date.UTC(y, 11, 31, 23, 59, 59))).toISOString();
